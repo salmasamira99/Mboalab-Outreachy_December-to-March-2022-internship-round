@@ -11,11 +11,11 @@ Good communication with general public and stakeholders will ensure there is an 
 
 
 ## Adressed to:
->**This task is addressed to applicants with skills in Web design, web and front end developement and related competencies.**
+>**This task is addressed to applicants with skills in Web design, web and frontend developement and related competencies.**
 
 ## Main activities to complete: 
 - Identify and select a suitable online plateform for the project
-- Design the selected online plateform
+- Design the selected online platform
 - Gather feedbacks about the platform from community.
 
 ## Attributed Mentor:
