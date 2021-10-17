@@ -1,5 +1,8 @@
 # Task 1 Logo Design by MELI TCHOUALA IMELDA
 
+### [Main Logo Text](main-text.svg)
+<img src="main-text.svg" width="500px">
+
 ## Concept 1
 <img src="concept-1.png" width="500px">
 
@@ -19,7 +22,7 @@ technology used for research and the main mboalab styled text to represent the L
 -> [Logo v1](logo-concept-3-v1.svg) The red on the head shaped logo represents someone who has fever, the testtube represents the research for a possible cure and the head stands to 
 represent a person.
 
--> [Logo v2](logo-concept-3-v2.svg) Same as Logo v2 but without the top section.
+-> [Logo v2](logo-concept-3-v2.svg) Same as the above logo but without the top section.
 
 ## Concept 4
 <img src="concept-4.png" width="500px">
@@ -30,7 +33,5 @@ represent a person.
 <img src="concept-5.png" width="500px">
 
 -> [Logo v1](logo-concept-5.svg)  The Microscope here is used to represent research in MboaLab and the Thermometer to represent the health aspect of Typhoid.
-
-### [Main Logo Text](main-text.svg)
 
 These are my proposals waiting for feedbacks to update them as required.
