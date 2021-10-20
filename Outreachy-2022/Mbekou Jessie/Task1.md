@@ -29,3 +29,5 @@ As the project implies improving diagnostics of typhoid through Artificial Intel
 - Circular shape: Circles are a symbol of stability and collaboration. Logos that use rings are designed to be welcoming, positive, and focused on a message of togetherness which goes with the aim this project which is to help improve diagnostics of typhoid.
 
 - Green color: Green represents growth, and evokes a feeling of relaxation and healing which is inline with this project which is improve diagnostics of typhoid.
+
+The different logo image format (png, svg, pdf) can be found in the Task1 folder inside this directory.
