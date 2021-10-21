@@ -11,5 +11,5 @@ Options for the Data collection tool to record Typhoid Fever symptoms Data:
 3. Creating an application using *Django* framework and gather information inviting clinics & clinicians to participate.
     
     This choice is optimal in case custom design and specific preferences are required.
-    As long as the objective of the project is to combine AI with irreplacable clinicians, building custom platfor/tool could be more reliable.
+    As long as the objective of the project is to combine AI with irreplacable clinicians, building custom platform/tool could be more reliable.
 

@@ -11,7 +11,6 @@ Applicants can contribute to this project through the [project repository](https
 - Check the [Contributions Guidelines](https://github.com/Mboalab/Mboalab-Outreachy_December-to-March-2022-internship-round/blob/main/Project%E2%80%99s%20Contribution%20Information/Guidelines%20on%20how%20to%20contribute.md) to find useful instructions on how to select a task and start contributing to the project.
 - Check the [List of all project's tasks](https://github.com/Mboalab/Mboalab-Outreachy_December-to-March-2022-internship-round/blob/main/Starter%20Tasks/List%20of%20all%20project's%20Tasks.md) to see all available tasks for this project. 
 
-
 ## Mentor attribution: 
 Each project’s Starter Task is supervised by a specific mentor. Applicants desiring to contribute to a specific task should get in touch with the assigned mentor. 
 Information about the assigned mentor can be found in the task’s descriptions.

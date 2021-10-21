@@ -25,4 +25,4 @@ The doctor is likely to ask a patient a number of questions. Being ready to answ
 4. I have other health problems. How can I best manage these conditions together?
 5. How long do you expect a full recovery will take?
 6. When can I return to work or school?
-7.Am I at risk of any long-term complications from typhoid fever?
+7. Am I at risk of any long-term complications from typhoid fever?

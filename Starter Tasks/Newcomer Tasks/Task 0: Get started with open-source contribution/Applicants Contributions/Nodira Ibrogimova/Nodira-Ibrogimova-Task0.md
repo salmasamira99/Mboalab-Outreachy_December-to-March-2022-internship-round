@@ -24,3 +24,5 @@ The choice of the algorithm will depend on the volume of the images obtained and
 ### **CURRENT STATUS OF THE PROJECT**
 
 Depending on the research by the team, the Transfer Learning method is reliable at 61%, and to reinforce the reliability of this test using the second algorithm which is a fast decision tree learner is planned. This algorithm based on 18 symptoms variables will allow research not only to confirm the diagnosis but above all to determine the level of severity of the disease. The main challenge of the project is the availability of local and high-quality open data.
+
+Further details in [Mboalab | Outreachy]()
