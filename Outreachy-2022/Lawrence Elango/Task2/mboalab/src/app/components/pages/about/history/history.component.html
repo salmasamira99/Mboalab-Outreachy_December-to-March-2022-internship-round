@@ -1,0 +1,29 @@
+<section class="history-section section-gap">
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="col-lg-6">
+                <div class="section-title text-center mb-80">
+                    <h2 class="title mb-10">Our History</h2>
+                    <p class="text-color-2">
+                        Does any industry face a more complex audience journey and marketing sales process than B2B
+                        technology.
+                    </p>
+                </div>
+            </div>
+        </div>
+        <div class="history-timeline history-isotope">
+            <!-- Data -->
+            <div class="history-item wow fadeInUp" data-wow-delay="0.3s" *ngFor="let item of history;let i = index">
+                <div class="history-thumb" [style.background-image]="'url('+item.img+')'"></div>
+                <div class="history-content">
+                    <span class="history-year">{{item.year}} - {{item.title}}</span>
+                    <h4 class="title">{{item.text}}</h4>
+                </div>
+                <div class="number-box">
+                    <span>0{{i+1}}</span>
+                </div>
+            </div>
+            <!-- Data -->
+        </div>
+    </div>
+</section>

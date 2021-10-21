@@ -1,0 +1,32 @@
+[
+    {
+        "id":1,
+        "lightimg":"assets/img/brand/brand-06.png",
+        "darkimg":"assets/img/brand/brand-item-1.png",
+        "title":"Company Name"
+    },
+    {
+        "id":2,
+        "lightimg":"assets/img/brand/brand-07.png",
+        "darkimg":"assets/img/brand/brand-item-2.png",
+        "title":"Company Name"
+    },
+    {
+        "id":3,
+        "lightimg":"assets/img/brand/brand-08.png",
+        "darkimg":"assets/img/brand/brand-item-3.png",
+        "title":"Company Name"
+    },
+    {
+        "id":4,
+        "lightimg":"assets/img/brand/brand-09.png",
+        "darkimg":"assets/img/brand/brand-item-4.png",
+        "title":"Company Name"
+    },
+    {
+        "id":5,
+        "lightimg":"assets/img/brand/brand-10.png",
+        "darkimg":"assets/img/brand/brand-item-5.png",
+        "title":"Company Name"
+    }
+]

@@ -1,0 +1,287 @@
+/* You can add global styles to this file, and also import other style files */
+@import url("./assets/css/magnific-popup.css");
+
+button:focus,
+:focus {
+  outline: none !important;
+  box-shadow: none !important;
+}
+.photo-grid {
+  border-radius: 25%;
+  width: 30px;
+  height: 30px;
+}
+.dx-datagrid,
+.dx-gridbase-container,
+.dx-datagrid-borders {
+  padding: 0.3em;
+}
+.hidden {
+  display: none;
+}
+
+.mainActions {
+  position: absolute;
+  right: 0;
+  padding: 0 10px;
+  display: none;
+}
+.mainActions ul {
+  list-style: none;
+  margin-bottom: 0;
+  display: inline-block;
+  padding-inline-start: 0;
+  background: #fafafa;
+}
+.mainActions li {
+  display: inline;
+  margin-left: 25px;
+  opacity: 0.7;
+}
+tr:hover .mainActions {
+  display: block;
+}
+tr:hover .mainActions li:hover {
+  opacity: 1;
+  cursor: pointer;
+}
+.pointer {
+  cursor: pointer;
+}
+.testimonial-box .author .photo img,
+.testimonial-box .author .photo {
+  width: 80px;
+  height: 80px;
+  border-radius: 50%;
+  position: relative;
+  overflow: hidden;
+  object-fit: cover;
+}
+.service-item-four .icon {
+  font-size: 50px;
+  color: #2596be;
+  line-height: normal;
+}
+.accordion .card .card-header .btn-link {
+  text-align: left;
+  border-radius: 0;
+  border: none;
+}
+.banner-section-two {
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+}
+.latest-news-box-four {
+  padding: 25px;
+}
+.latest-news-box-four .meta li {
+  padding-right: 12px;
+}
+.blog-dteails-content .cat,
+.single-blog-standard .blog-standard-content .cat {
+  margin-right: 15px;
+}
+.blog-dteails-content .cat:last-child,
+.single-blog-standard .blog-standard-content .cat:last-child {
+  margin-right: 0;
+}
+.single-blog-standard .blog-standard-footer .footer-left img {
+  width: 40px;
+  height: 40px;
+  object-fit: cover;
+  border-radius: 50%;
+}
+.blog-sidebar .widget.tags-widget ul a {
+  padding: 0 16px;
+}
+.blog-sidebar .widget .news-feed-items .news-feed-item img {
+  width: 80px;
+  height: 80px;
+  border-radius: 50%;
+  top: -10px;
+  object-fit: cover;
+}
+.blog-sidebar .widget .news-feed-items .news-feed-item .title a {
+  color: #002249;
+}
+.blog-sidebar .widget .about-contnent img {
+  width: 140px;
+  height: 140px;
+  border-radius: 50%;
+  object-fit: cover;
+}
+.comment-template .comments-list li .comment-author img {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  object-fit: cover;
+}
+.cart-table table {
+  width: 100%;
+}
+@media (min-width: 1200px) {
+  .container {
+    max-width: 1200px;
+  }
+}
+/* Pagination */
+pagination-template .ngx-pagination {
+  margin-top: 20px;
+  justify-content: center;
+  margin-bottom: 0;
+  display: flex;
+  padding-left: 0;
+  list-style: none;
+  border-radius: 0.25rem;
+}
+pagination-template .ngx-pagination li {
+  margin: 0;
+  position: relative;
+}
+pagination-template .ngx-pagination li.pagination-next,
+pagination-template .ngx-pagination li.pagination-previous {
+  padding: 0;
+  display: block;
+}
+pagination-template .ngx-pagination li.pagination-next span,
+pagination-template .ngx-pagination li.pagination-previous span,
+pagination-template .ngx-pagination li a {
+  border: 2px solid #f1fcff;
+  background-color: #f1fcff;
+  font-size: 16px;
+  font-weight: 600;
+  margin: 0;
+  position: relative;
+  margin-left: 7px;
+  margin-right: 7px;
+  height: 50px;
+  width: 50px;
+  display: flex;
+  line-height: 2;
+  text-align: center;
+  border-radius: 50%;
+  align-items: center;
+  justify-content: center;
+}
+pagination-template .ngx-pagination li.current {
+  color: #fff;
+  border: 2px solid #2596be;
+  background-color: #2596be;
+  font-size: 16px;
+  font-weight: 600;
+  margin: 0;
+  position: relative;
+  margin-left: 7px;
+  margin-right: 7px;
+  height: 50px;
+  width: 50px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  line-height: 2;
+  text-align: center;
+  border-radius: 50%;
+}
+pagination-template .ngx-pagination li.pagination-next::after,
+pagination-template .ngx-pagination li.pagination-next a:after,
+pagination-template .ngx-pagination li.pagination-previous a::before,
+pagination-template .ngx-pagination li.pagination-previous::before {
+  display: none !important;
+}
+/* Count down */
+
+.countdown {
+  justify-content: space-between !important;
+  flex-wrap: wrap;
+}
+.countdown .measurements {
+  display: inline-block;
+  height: 250px;
+  width: 250px;
+  border: 10px solid #f6fcff;
+  border-radius: 50%;
+  position: relative;
+  z-index: 2;
+  padding-top: 75px;
+  flex: unset !important;
+}
+.countdown .measurements::before {
+  position: absolute;
+  content: "";
+  height: 108%;
+  width: 108%;
+  border-radius: 50%;
+  border: 10px solid transparent;
+  left: -10px;
+  top: -10px;
+  z-index: -1;
+  border-left-color: #2596be;
+  border-right-color: #2596be;
+  transform: rotate(-45deg);
+}
+.countdown .measurements .measurements-number {
+  font-size: 50px;
+  font-weight: 700;
+  font-family: "GilroyBold";
+  color: #002249;
+  line-height: 50px;
+}
+.countdown .measurements .measurements-text {
+  font-weight: 700;
+  color: #69a1bb;
+}
+.white {
+  color: white;
+}
+.red {
+  color: rgb(214, 104, 104);
+}
+@media only screen and (min-width: 992px) and (max-width: 1200px) {
+  .countdown .measurements {
+    height: 200px;
+    width: 200px;
+    padding-top: 50px;
+  }
+  .countdown .measurements::before {
+    height: 110%;
+    width: 110%;
+  }
+}
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+  .countdown .measurements {
+    height: 150px;
+    width: 150px;
+    padding-top: 30px;
+  }
+  .countdown .measurements::before {
+    height: 114%;
+    width: 117%;
+  }
+}
+@media (max-width: 767px) {
+  .countdown {
+    justify-content: center !important;
+  }
+  .countdown .measurements {
+    height: 200px;
+    width: 200px;
+    margin: 20px 0;
+    padding-top: 50px;
+  }
+}
+@media only screen and (min-width: 576px) and (max-width: 767px) {
+  .countdown .measurements {
+    height: 200px;
+    width: 200px;
+    margin: 20px;
+    padding-top: 50px;
+  }
+  .countdown .measurements::before {
+    height: 111%;
+    width: 111%;
+  }
+  .countdown {
+    justify-content: space-between !important;
+  }
+}

@@ -1,0 +1,215 @@
+[
+  {
+    "id": 1,
+    "img": "assets/img/team/leadership-1.jpg",
+    "post": "Founder",
+    "name": "Dr. Thomas Mboa",
+    "htmldesc": "<p class='pb-15'>Thomas Hervé Mboa Nkoudou, a Cameroonian social scientist, holds a PhD in public communication from the Université Laval in Quebec City. With a focus on the African continent, Thomas' research interests are in the digital humanities, open science, the maker movement, social innovation and scholarly communication, with a strong theoretical focus on decolonial studies and critical approaches to development. Thomas Mboa is currently Lecturer at the Advanced School of Mass Communication (Digital Humanities Section), University of Yaoundé II, Cameroon. In addition, through the Queen Elizabeth II Scholarship Program, he is a Visiting Researcher at the Centre for Law, Technology and Society, University of Ottawa ; as well as, New Emerging Researcher at Open African Innovation Research (Open AIR) Network, University of Ottawa. Due to his background in Biochemistry, Thomas Mboa is deeply engaged to promote DIYbio and democratize Biotechnology in Africa. His work with DIYBio is visible through his own biohackerspace in Cameroon: the Mboalab (www.mboalab.africa) , which is part of the Open Bioeconomy Lab (https://openbioeconomy.org). Thomas also operates through the Africa Open Science & Hardware network (www.africaosh.com) which he co-leads, which aims to strengthen African stakeholders and catalyse grassroots innovation through Open Tech culture. Thomas is in charge of the African Institute of Open Science and Hardware launched by the AfricaOSH community. He is also the President of APSOHA (Association for the Promotion of Open Science in Haiti and Africa). To his record, Thomas Mboa has several publications and presentations on the maker movement, open access, local knowledge, commons, cognitive justice, and so on.</p>",
+    "social": [
+      {
+        "icon": "fab fa-facebook-f",
+        "url": "/",
+        "title": "Facebook"
+      },
+      {
+        "icon": "fab fa-twitter",
+        "url": "https://twitter.com/Mboathomas",
+        "title": "Twitter"
+      },
+      {
+        "icon": "fab fa-github",
+        "url": "https://github.com/thomasmboa",
+        "title": "Github"
+      },
+      {
+        "icon": "fab fa-linkedin-in",
+        "url": "/",
+        "title": "LinkedIn"
+      },
+      {
+        "icon": "fab fa-instagram",
+        "url": "/",
+        "title": "Instagram"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "img": "assets/img/team/leadership-2.jpg",
+    "post": "Co-Founder",
+    "name": "Nelly Mengue",
+    "htmldesc": "<p class='pb-15'>Researcher - Nutrition.​</p>",
+    "social": [
+      {
+        "icon": "fab fa-facebook-f",
+        "url": "/",
+        "title": "Facebook"
+      },
+      {
+        "icon": "fab fa-twitter",
+        "url": "/",
+        "title": "Twitter"
+      },
+      {
+        "icon": "fab fa-behance",
+        "url": "/",
+        "title": "Behance"
+      },
+      {
+        "icon": "fab fa-linkedin-in",
+        "url": "/",
+        "title": "LinkedIn"
+      },
+      {
+        "icon": "fab fa-instagram",
+        "url": "/",
+        "title": "Instagram"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "img": "assets/img/team/leadership-3.jpg",
+    "post": "Co-Founder",
+    "name": "Isidore Ndongo",
+    "htmldesc": "<p class='pb-15'>Researcher -ICT.​</p>",
+    "social": [
+      {
+        "icon": "fab fa-facebook-f",
+        "url": "/",
+        "title": "Facebook"
+      },
+      {
+        "icon": "fab fa-twitter",
+        "url": "/",
+        "title": "Twitter"
+      },
+      {
+        "icon": "fab fa-behance",
+        "url": "/",
+        "title": "Behance"
+      },
+      {
+        "icon": "fab fa-linkedin-in",
+        "url": "/",
+        "title": "LinkedIn"
+      },
+      {
+        "icon": "fab fa-instagram",
+        "url": "/",
+        "title": "Instagram"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "img": "assets/img/team/leadership-4.jpg",
+    "post": "Staff",
+    "name": "Lenshina Agbor",
+    "htmldesc": "<p class='pb-15'>Researcher - Molecular Science.​</p>",
+    "social": [
+      {
+        "icon": "fab fa-facebook-f",
+        "url": "/",
+        "title": "Facebook"
+      },
+      {
+        "icon": "fab fa-twitter",
+        "url": "/",
+        "title": "Twitter"
+      },
+      {
+        "icon": "fab fa-linkedin-in",
+        "url": "/",
+        "title": "LinkedIn"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "img": "assets/img/team/leadership-5.jpg",
+    "post": "Staff",
+    "name": "Stephane Fadanka",
+    "htmldesc": "<p class='pb-15'>Stephane Fadanka is a Molecular Biology researcher and a fervent advocate of Open Science in Africa with a particular interest in plant and synthetic biotechnology. Carrying a long-standing passion for agriculture and plant biotechnology, he conducted a study on microbial host interaction for integrated pest management to Masters level. His current research interests include (1) developing and adapting modern Biotechnology tools and methods to be used in low resource settings and (2) screening of novel, cheap and environmentally friendly biologically active compounds from microorganisms and (3) the development of cost-effective and widely accessible plant propagation methods. Stephane is currently the Executive Director of MboaLab and has close to two years of professional experience as a researcher then research manager for the UK-based social enterprise Beneficial Bio Ltd.​</p>",
+    "social": [
+      {
+        "icon": "fab fa-facebook-f",
+        "url": "/",
+        "title": "Facebook"
+      },
+      {
+        "icon": "fab fa-twitter",
+        "url": "https://twitter.com/StephaneFadanka",
+        "title": "Twitter"
+      },
+      {
+        "icon": "fab fa-github",
+        "url": "https://github.com/Fadanka",
+        "title": "Github"
+      },
+      {
+        "icon": "fab fa-linkedin-in",
+        "url": "/",
+        "title": "LinkedIn"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "img": "assets/img/team/leadership-6.jpg",
+    "post": "Staff",
+    "name": "Nadine Mowoh",
+    "htmldesc": "<p class='pb-15'>Researcher - Local Enzyme Manufacture.​</p>",
+    "social": [
+      {
+        "icon": "fab fa-facebook-f",
+        "url": "/",
+        "title": "Facebook"
+      },
+      {
+        "icon": "fab fa-twitter",
+        "url": "/",
+        "title": "Twitter"
+      },
+      {
+        "icon": "fab fa-linkedin-in",
+        "url": "/",
+        "title": "LinkedIn"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "img": "assets/img/team/leadership-7.jpg",
+    "post": "Staff",
+    "name": "Siegfried Moudindoh",
+    "htmldesc": "<p class='pb-15'>Industrial Engineer.​</p>",
+    "social": [
+      {
+        "icon": "fab fa-facebook-f",
+        "url": "/",
+        "title": "Facebook"
+      },
+      {
+        "icon": "fab fa-twitter",
+        "url": "/",
+        "title": "Twitter"
+      },
+      {
+        "icon": "fab fa-behance",
+        "url": "/",
+        "title": "Behance"
+      },
+      {
+        "icon": "fab fa-linkedin-in",
+        "url": "/",
+        "title": "LinkedIn"
+      },
+      {
+        "icon": "fab fa-instagram",
+        "url": "/",
+        "title": "Instagram"
+      }
+    ]
+  }
+]

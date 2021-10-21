@@ -1,0 +1,55 @@
+<section class="contact-map-section section-gap soft-blue-bg">
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="col-lg-6 col-md-9">
+                <div class="section-title text-left mb-45">
+                    <span>Get In Touch</span>
+                    <h2 class="title">Estimate For Your Projects.</h2>
+                </div>
+                <div class="form-area">
+                    <form id="contact-form" (ngSubmit)="onSubmit()" #contactForm="ngForm">
+                        <div class="input-group">
+                            <input type="text" placeholder="Enter your name" name="name"
+                            [(ngModel)]="model.name" required>
+                            <div class="icon"><i class="fal fa-user"></i></div>
+                        </div>
+                        <div class="input-group mt-20">
+                            <input type="email" placeholder="Enter your email" name="email"
+                            [(ngModel)]="model.email" required>
+                            <div class="icon"><i class="fal fa-envelope"></i></div>
+                        </div>
+                        <div class="input-group textarea-group mt-20">
+                            <textarea cols="30" rows="10" placeholder="Enter your message" name="message" [(ngModel)]="model.message"
+                            required></textarea>
+                            <div class="icon"><i class="fal fa-edit"></i></div>
+                        </div>
+                        <div class="input-group mt-20">
+                            <button class="main-btn" type="submit">Submit Now</button>
+                        </div>
+                        <!-- Form Messages -->
+                        <div class="service-error mt-4 w-100" *ngIf="error">
+                            <ngb-alert type="danger" class="mb-0 w-100" [dismissible]="false">
+                                <strong>Oops!</strong> Something bad happened. Please try again later.
+                            </ngb-alert>
+                        </div>
+                        <div [hidden]="!submitted" class="contact-message w-100 mt-4">
+                            <div *ngIf="model.id" class="contact-success w-100">
+                                <ngb-alert type="success" class="mb-0 w-100" [dismissible]="false">
+                                    <strong>Success!</strong> Contact form has been successfully submitted.
+                                </ngb-alert>
+                            </div>
+                        </div>
+                        <!-- Form Messages -->
+                    </form>
+                </div>
+            </div>
+            <div class="col-lg-6 col-md-9">
+                <div class="contact-video mt-md-gap-50">
+                    <img src="assets/img/contact-thumb.jpg" alt="video play">
+                    <a class="video-popup popup-youtube" href="https://www.youtube.com/watch?v=TKnufs85hXk"><i class="fas fa-play"></i></a>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+

@@ -1,0 +1,21 @@
+<section class="piechart-section section-gap">
+    <div class="container">
+        <div class="row">
+            <!-- Data -->
+            <div class="col-lg-3 col-md-6 wow fadeInRight" data-wow-delay="0.6s" *ngFor="let item of progress">
+                <div class="piechart-box piechart-active mt-40">
+                    <div class="icon">
+                        <i [class]="item.icon"></i>
+                    </div>
+                    <span class="counter">{{item.countvalue}}</span>
+                    <circle-progress class="chart" [percent]="item.circlecount" [radius]="100" [outerStrokeWidth]="10" [innerStrokeWidth]="10"
+                        [outerStrokeColor]="'#006de8'" [innerStrokeColor]="'#f1f9ff'" [animation]="true" [space]="-10"
+                        [outerStrokeLinecap]="'round'" [animationDuration]="300" [showTitle]="false" [showUnits]="false"
+                        [showSubtitle]="false" [responsive]="true">
+                    </circle-progress>
+                </div>
+            </div>
+            <!-- Data -->
+        </div>
+    </div>
+</section>

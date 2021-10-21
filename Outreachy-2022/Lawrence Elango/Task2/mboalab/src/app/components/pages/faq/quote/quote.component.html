@@ -1,0 +1,54 @@
+<section class="conatct-section-two section-gap" [style.background-image]="'url(assets/img/contact-bg-2.jpg)'">
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="col-xl-6 col-lg-7">
+                <div class="section-title white-color text-center mb-40">
+                    <h2 class="title mb-10">Get A Free Quote</h2>
+                    <p class="text-color-2"> Does any industry face a more complex audience journey and marketing sales process than B2B technology. </p>
+                </div>
+            </div>
+            <div class="col-12">
+                <div class="contact-form">
+                    <form (ngSubmit)="onSubmit()" #contactForm="ngForm">
+                        <div class="row">
+                            <div class="col-md-6">
+                                <div class="input-group mt-30">
+                                    <input type="text" placeholder="Full Name Here" name="name"
+                                    [(ngModel)]="model.name" required> <span class="icon"><i class="fal fa-user"></i></span> </div>
+                            </div>
+                            <div class="col-md-6">
+                                <div class="input-group mt-30">
+                                    <input type="email" placeholder="Email Here" name="email"
+                                    [(ngModel)]="model.email" required> <span class="icon"><i class="fal fa-envelope-open"></i></span> </div>
+                            </div>
+                            <div class="col-12">
+                                <div class="input-group textarea-group mt-30">
+                                    <textarea placeholder="Message Us" name="message" [(ngModel)]="model.message"
+                                    required></textarea> <span class="icon"><i class="fal fa-pencil"></i></span> </div>
+                            </div>
+                            <div class="col-12">
+                                <div class="input-group textarea-group mt-30">
+                                    <button type="submit" class="main-btn small-size ml-auto mr-auto">Get A Free Quote</button>
+                                </div>
+                                <!-- Form Messages -->
+                                <div class="service-error mt-4 w-100" *ngIf="error">
+                                    <ngb-alert type="danger" class="mb-0 w-100" [dismissible]="false">
+                                        <strong>Oops!</strong> Something bad happened. Please try again later.
+                                    </ngb-alert>
+                                </div>
+                                <div [hidden]="!submitted" class="contact-message w-100 mt-4">
+                                    <div *ngIf="model.id" class="contact-success w-100">
+                                        <ngb-alert type="success" class="mb-0 w-100" [dismissible]="false">
+                                            <strong>Success!</strong> Contact form has been successfully submitted.
+                                        </ngb-alert>
+                                    </div>
+                                </div>
+                                <!-- Form Messages -->
+                            </div>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>

@@ -1,0 +1,39 @@
+<body>
+  <div class="row justify-content-center text-center mt-5">
+    <img src="assets/img/logo-2.png" alt="" width="150" />
+  </div>
+  <div class="card holder">
+    <div
+      style="
+        border-radius: 200px;
+        height: 200px;
+        width: 200px;
+        background: #f8faf5;
+        margin: 0 auto;
+      "
+    >
+      <img
+        src="assets/img/emailverified.gif"
+        alt=""
+        width=""
+        *ngIf="verification"
+      />
+      <img src="assets/img/500.gif" alt="" width="" *ngIf="!verification" />
+    </div>
+    <span *ngIf="verification">
+      <h3 class="mt-4">Email verified successfully</h3>
+      <p>Continue using MboaLab</p>
+
+      <button routerLink="/login" class="mt-4 btn btn-dark btn-lg btn-block">
+        Continue
+      </button>
+    </span>
+    <span *ngIf="!verification">
+      <h3 class="mt-4 red">An error occured.</h3>
+
+      <button routerLink="/" class="mt-4 btn btn-dark btn-lg btn-block">
+        Home
+      </button>
+    </span>
+  </div>
+</body>

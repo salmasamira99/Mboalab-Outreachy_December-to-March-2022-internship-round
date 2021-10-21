@@ -1,0 +1,26 @@
+[
+    {
+        "id":1,
+        "icon":"fal fa-map",
+        "countvalue":280,
+        "circlecount":73
+    },
+    {
+        "id":2,
+        "icon":"fal fa-chart-bar",
+        "countvalue":782,
+        "circlecount":82
+    },
+    {
+        "id":3,
+        "icon":"fal fa-chart-pie",
+        "countvalue":380,
+        "circlecount":78
+    },
+    {
+        "id":4,
+        "icon":"fal fa-user-friends",
+        "countvalue":230,
+        "circlecount":70
+    }
+]
