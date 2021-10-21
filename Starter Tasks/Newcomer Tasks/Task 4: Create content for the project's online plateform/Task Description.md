@@ -1,4 +1,4 @@
-# Task 4: Create content for the project's online plateform
+# Task 4: Create content for the project's online platform
 
 ## Objective: 
 With this task, participants are invited to compile relevant infomation about the project and create content that will be share through the project's online platform. 
