@@ -1,0 +1,85 @@
+#IMPROVE DIAGNOSTICS OF TYPHOID THROUGH OPEN SCIENCE: AN ARTIFICIAL INTELLIGENCE-BASED TECHNIQUE
+
+##PROJECT GOALS, RELEVANCE AND OBJECTIVES
+This project aims to close the gaps observed in the diagnosis of Typhoid or Enteric Fever by combining Aritificial systems (AI) with **irreplaceable** human clinicians.
+Mboalab plans to achieve this goal by;
+
+1. Using the microculture test with the blood which seems to be the best accepted by the laboratory technicians
+2. Using Convolutional Neural Network (CNNs) as algorithms on the collected images to train the algorithm
+
+The following will be achieved:
+
+1.Confirmation of diagnosis
+2. Determination of the level of severity of the disease
+
+#RELEVANT CONTENT CATEGORY TO BE DISPLAYED ON THE WEBSITES
+
+1. **About Mboalab**
+_Mboalb is introduced_
+
+2. **Mboalab Projects**
+_This focuses on projects being handled by Mboalab, past and present.
+
+3. **News on Project Progress**
+_Major milestones are shared as they are achieved_
+
+4. **Mboalab People**
+_Mboalab staff, full, part-time, remote and interns are introduced_
+
+5. **Geographical Focus**
+_Description of a locality affected by the focus of a project. Example, Cameroon for this project._
+
+6. **Pathosis**
+_Discussion on a disease Mboalab is focused on, or on a disease of interest in Africa or the world as a whole_
+
+7. **Medicine and Technology**
+_Latest discovery in the area of medicine and technology_
+
+8. **Mboalab Project Tools**
+_Any tool of interest used in running projects_
+
+9. **Open Science**
+_Sensitization on Open Science_
+
+10. **Outreachy**
+_Information on Outreach programs Mboalab is involved in_
+
+11. **Contact Us**
+_A section for comments, for emails and for connection on social media_
+
+#CREATING AND DESIGNING TEXT CONTENT ON SUGGESTED CONTENT 8 ABOVE
+
+#MBOALAB PROJECT TOOLS: _DATA COLLECTION TOOL_
+
+Mbolab prides itself in its focus on making biotechnology research and tools more accessible to labs around the world through scientific research and development and local production of reagents.
+Mboalab is committed to the development of open educational resources as well as simple and cost effective protocols that can be applied in resource-limited laboratories.
+In our latest project: **Improve diagnostics of typhoid through Open Science: An Artificial Intelligence-based technique**, one of such tools used is a **DATA COLLECTION TOOL**
+
+<img src="https://nairametrics.com/wp-content/uploads/2019/07/Data.jpg" alt="COVID-19: Signalling the emergence of Big Data analytics in Nigeria –  Nairametrics"/>
+
+Image by Nairametrics
+
+>**Data**, is information that has been translated into a form that is efficient for movement or processing
+-by searchdatamanagement.techtarget
+
+Mboalab, recognising the importance of needed information for this project to achieve its goals and objectives and discovering that a major challenge faced in the diagnosis of typhoid fever in Cameroon and in Africa is the **availability of local and high quality open data**,
+realised the need to gather data and by the _most fitting and preferred_ data collection tool. The Dataset will be Open, Interoperable and aligned with the Metadata Schema 4.4 (https://schema.datacite.org)
+
+> A data collection tool refers to the devices/instruments used to collect data.
+-by formpl.us
+Examples questionnnaires, surveys, interviews, etc.
+
+Choosing the best data collection tool was based on goals and objectives of the project and on the following factors:
+
+-It should be addressed to the local health care professionals and practitioners affiliated to and having access to patients data records
+-It should enable acquisition of prospective and retrospective datasets
+It should take into account local and content specifities, (language, access to specific resources, etc)
+
+It was an interesting part of the project choosing our most preferred data collection tool. _Many thanks to all our contributors_
+As we share our data and share insights from the analysis of the dataset, you will agree with us that we indeed chose right.
+
+What data collection tool _do you_ think we adopted for the Typhoid Fever project?
+What data collection tool would you have recommended? Why not go through our **Mboalab Projects** content to help you with your answers :joy:
+Send your comments to us, we love to hear from you. Use the comment section or send us an email (See our **Contact Us** section)
+
+Are you passionate about medical research and technology and would like to contribute to our site, then email us :joy:
