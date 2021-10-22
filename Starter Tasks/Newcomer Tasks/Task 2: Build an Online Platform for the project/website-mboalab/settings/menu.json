@@ -1,0 +1,36 @@
+{
+  "menu": [
+    {
+      "name": "Home",
+      "link": "/"
+    },
+    {
+      "name": "Blog",
+      "link": "/blog"
+    },
+    {
+      "name": "About",
+      "link": "/about"
+    },
+    {
+      "name": "Contact",
+      "link": "/contact"
+    },
+    {
+      "name": "Donate",
+      "link": "/donate"
+    },
+    {
+      "name": "Outreachy",
+      "link": "/outreachy"
+    },
+    {
+      "name": "Projects",
+      "link": "/projects"
+    },
+    {
+      "name": "How It Works",
+      "link": "/howitworks"
+    }
+  ]
+}

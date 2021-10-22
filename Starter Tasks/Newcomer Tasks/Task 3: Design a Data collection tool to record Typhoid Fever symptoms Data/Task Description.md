@@ -1,4 +1,4 @@
-# Task 1: Design a Data collection tool to record symptoms Data 
+# Task 3: Design a Data collection tool to record symptoms Data 
 
 ## Objective: 
 Our project is based on the use of a mix model combining AI systems and software tools with human clinical data acquire through a Data collection system. The objective of this task is to design the data collection system that will be use to collect thyphoid fever clinical data (symptoma variables that will allow us not only to confirm the diagnosis but above all to determine the level of severity of the disease).
