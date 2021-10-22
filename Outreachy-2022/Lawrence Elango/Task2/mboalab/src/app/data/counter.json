@@ -1,0 +1,30 @@
+[
+    {
+        "id":1,
+        "title":"Our Branchs",
+        "text":"Sed ut perspiciatis unde omnis iste natus error sit voluptsantium doloremque laudantium",
+        "icon":"fal fa-box",
+        "value":280
+    },
+    {
+        "id":2,
+        "title":"Projects Done",
+        "text":"Sed ut perspiciatis unde omnis iste natus error sit voluptsantium doloremque laudantium",
+        "icon":"fal fa-users",
+        "value":782
+    },
+    {
+        "id":3,
+        "title":"Happy Users",
+        "text":"Sed ut perspiciatis unde omnis iste natus error sit voluptsantium doloremque laudantium",
+        "icon":"fal fa-globe",
+        "value":"1M"
+    },
+    {
+        "id":4,
+        "title":"Awards",
+        "text":"Sed ut perspiciatis unde omnis iste natus error sit voluptsantium doloremque laudantium",
+        "icon":"fal fa-award",
+        "value":100
+    }
+]

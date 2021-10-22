@@ -1,0 +1,38 @@
+<div class="blog-sidebar">
+  <!-- <div class="widget search-widget">
+        <h4 class="widget-title">Search Objects</h4>
+        <form action="#">
+            <input type="text" placeholder="Search your keyword...">
+            <button><i class="fal fa-search"></i></button>
+        </form>
+    </div> -->
+  <div class="widget categories-widget">
+    <h4 class="widget-title">Categories | {{ categoryCount }}</h4>
+    <ul>
+      <!-- Data -->
+      <li *ngFor="let category of categories">
+        <a
+          >{{ category.name }}
+          <!-- <span>{{item.count}}</span> -->
+        </a>
+      </li>
+      <!-- Data -->
+    </ul>
+  </div>
+  <div class="widget news-feed-widget">
+    <h4 class="widget-title">Popular Feeds</h4>
+    <div class="news-feed-items">
+      <!-- Data -->
+      <div class="news-feed-item" *ngFor="let item of blog | slice: 0:4">
+        <h4 class="title">
+          <a routerLink="/blog-details/{{ item.id }}">{{
+            item.title | slice: 0:35
+          }}</a>
+        </h4>
+        <span><i class="fal fa-calendar-alt"></i>{{ item.postdate }}</span>
+        <img [src]="item.gridimg" [alt]="item.title" />
+      </div>
+      <!-- Data -->
+    </div>
+  </div>
+</div>

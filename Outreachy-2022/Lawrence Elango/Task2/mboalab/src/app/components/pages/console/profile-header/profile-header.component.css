@@ -1,0 +1,167 @@
+body {
+  margin-top: 20px;
+  background: #eee;
+}
+
+.bio {
+  font-size: initial;
+  word-break: break-all;
+}
+
+.photo {
+  width: 200px;
+  height: 200px;
+  background-size: cover;
+  display: block;
+  border-radius: 100px;
+  -webkit-border-radius: 100px;
+  -moz-border-radius: 100px;
+}
+
+.post-photo {
+  border-radius: 25%;
+  width: 200px;
+  height: auto;
+}
+
+.file {
+  padding: 3px;
+}
+
+.profile-thumb {
+  position: relative;
+  width: 100px;
+  height: 100px;
+  display: inline-block;
+}
+.profile-thumb-edit {
+  font-size: 16px;
+  width: 37px;
+  height: 37px;
+  border-radius: 100%;
+  position: absolute;
+  overflow: hidden;
+  bottom: 0px;
+  right: 0;
+  display: -ms-flexbox !important;
+  display: flex !important;
+  -ms-flex-pack: center !important;
+  justify-content: center !important;
+  -ms-flex-align: center !important;
+  align-items: center !important;
+}
+.custom-file-input {
+  cursor: pointer;
+}
+
+.fs35 {
+  font-size: 35px !important;
+}
+
+.mw50 {
+  max-width: 50px !important;
+}
+.mn {
+  margin: 0 !important;
+}
+.mw140 {
+  max-width: 140px !important;
+}
+.mb20 {
+  margin-bottom: 20px !important;
+}
+.mr25 {
+  margin-right: 25px !important;
+}
+
+.mw40 {
+  max-width: 40px !important;
+}
+
+.media-object {
+  width: 200px;
+  height: 100%;
+}
+
+.p30 {
+  padding: 30px !important;
+}
+
+.group {
+  margin-top: 16%;
+}
+
+.page-heading {
+  position: relative;
+  padding: 30px 40px;
+  margin: -25px -20px 25px;
+  border-bottom: 1px solid #d9d9d9;
+  background-color: #f2f2f2;
+}
+/* For mobile phones: */
+@media (max-width: 800px) {
+  .group {
+    margin-top: 30%;
+  }
+
+  .media-body {
+    margin-top: 30px;
+  }
+
+  .media-left {
+    text-align: center;
+  }
+
+  .media-object {
+    width: 200px;
+    height: 100%;
+  }
+}
+
+.media {
+  color: #999999;
+  font-weight: 600;
+  margin-top: 15px;
+}
+.media:first-child {
+  margin-top: 0;
+}
+.media-right,
+.media > .pull-right {
+  padding-left: 10px;
+}
+.media-left,
+.media > .pull-left {
+  padding-right: 10px;
+}
+.media-left,
+.media-right,
+.media-body {
+  display: table-cell;
+  vertical-align: top;
+}
+.media-middle {
+  vertical-align: middle;
+}
+.media-bottom {
+  vertical-align: bottom;
+}
+.media-heading {
+  color: #555555;
+  margin-top: 0;
+  margin-bottom: 5px;
+}
+.media-list {
+  padding-left: 0;
+  list-style: none;
+}
+
+.save {
+  background: black;
+  color: white;
+}
+
+.logout {
+  background: rgb(245, 111, 111);
+  color: white;
+}

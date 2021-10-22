@@ -1,0 +1,44 @@
+[
+    {
+        "id":1,
+        "img":"assets/img/service-img/01.jpg",
+        "icon":"fal fa-users",
+        "title":"Education",
+        "shortdesc":"provide community and lifelong education for the population, as well as formal education for the younger generations;."
+    },
+    {
+        "id":2,
+        "img":"assets/img/service-img/02.jpg",
+        "icon":"fal fa-gavel",
+        "title":"Exchanges",
+        "shortdesc":"Serve as a platform for exchanges on issues related to local context;."
+    },
+    {
+        "id":3,
+        "img":"assets/img/service-img/03.jpg",
+        "icon":"fal fa-map-marked-alt",
+        "title":"Mediate",
+        "shortdesc":"Mediate between local communities and academia;."
+    },
+    {
+        "id":4,
+        "img":"assets/img/service-img/04.jpg",
+        "icon":"fal fa-hurricane",
+        "title":"Community solutions",
+        "shortdesc":"Propose solutions that meet the needs of communities, using local knowledge and open digital technologies."
+    },
+    {
+        "id":5,
+        "img":"assets/img/service-img/05.jpg",
+        "icon":"fal fa-bezier-curve",
+        "title":"Awareness",
+        "shortdesc":"Raise public awareness of environmental issues;."
+    },
+    {
+        "id":6,
+        "img":"assets/img/service-img/06.jpg",
+        "icon":"fal fa-umbrella",
+        "title":"Accessible Healthcare",
+        "shortdesc":"Facilitate access to basic health care.."
+    }
+]

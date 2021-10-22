@@ -1,0 +1,25 @@
+<section class="service-section-two section-gap-top pb-90">
+    <div class="container">
+        <div class="row service-items justify-content-center">
+            <!-- Data -->
+            <div class="col-lg-4 col-md-6 col-sm-8" *ngFor="let item of serviceblock | paginate: { itemsPerPage: 6, currentPage: page }">
+                <div class="service-item-eight mb-30">
+                    <div class="service-img">
+                        <img [src]="item.img" [alt]="item.title">
+                    </div>
+                    <div class="services-overlay">
+                        <div class="icon"><i [class]="item.icon"></i></div>
+                        <h4 class="title white">{{item.title}}</h4>
+                        <p>{{item.shortdesc | slice:0:130}}</p>
+                    </div>
+                </div>
+            </div>
+            <!-- Data -->
+        </div>
+        <div class="pagination justify-content-center mt-30">
+            <pagination-controls (pageChange)="page = $event" responsive="true"
+            previousLabel="<"
+            nextLabel=">"></pagination-controls>
+        </div>
+    </div>
+</section>

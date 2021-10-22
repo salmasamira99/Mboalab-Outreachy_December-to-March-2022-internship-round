@@ -1,0 +1,9 @@
+.content,
+.bio {
+  word-break: break-all;
+}
+
+.banner {
+  padding: 15px;
+  margin-top: 5%;
+}

@@ -1,0 +1,50 @@
+<section class="experience-section section-gap">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-5 col-md-8 wow fadeInLeft" data-wow-delay="0.3s">
+        <div class="section-title with-right-border mb-md-gap-30">
+          <span class="title-tag">Many Years Of growth</span>
+          <h2 class="title">Keep pushing boundaries</h2>
+        </div>
+      </div>
+      <div class="col-lg-6 offset-lg-1 wow fadeInRight" data-wow-delay="0.3s">
+        <div class="experience-text">
+          <p class="fs-16 text-color-2">
+            MboaLab is an open and collaborative space located in Yaoundé,
+            Cameroon. The aim of MboaLab is to catalyse sustainable local
+            development and improve people’s living conditions through open
+            science. MboaLab is an open and collaborative space located in the
+            village of Mefou-Assi, Yaoundé, Cameroon. The word “Mboa” has
+            different meanings in native Cameroonian languages: in Matakam, it
+            means “new”; in Ewondo, it means “unique”; in Duala, it means
+            “village”. Literally translated, MboaLab is a unifying village
+            dedicated to creation; even better, it is a laboratory for social
+            innovation, community education, collaboration and mediation at the
+            service of the community.
+          </p>
+        </div>
+      </div>
+    </div>
+    <div class="row justify-content-center mt-50">
+      <!-- Data -->
+      <div
+        class="col-lg-4 col-md-6 col-sm-8 wow fadeInUp"
+        data-wow-delay="0.5s"
+        *ngFor="let item of services | slice: 0:3"
+      >
+        <div class="feature-box mt-30">
+          <img [src]="item.img" [alt]="item.title" />
+          <div class="feature-overlay">
+            <div class="content">
+              <h5 class="title">{{ item.title }}</h5>
+              <p>{{ item.shortdesc | slice: 0:70 }}</p>
+              <a routerLink="/service-details">Read More</a>
+              <i [class]="item.icon"></i>
+            </div>
+          </div>
+        </div>
+      </div>
+      <!-- Data -->
+    </div>
+  </div>
+</section>

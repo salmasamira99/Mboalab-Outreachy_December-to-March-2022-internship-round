@@ -1,0 +1,543 @@
+[
+    {
+        "id": 1,
+        "gridimg": "assets/img/blog/blog-grid-1.jpg",
+        "format": "standard",
+        "title": "How Performance Visiblety With GitLab CI And Hood",
+        "postdate": "22 Jan 2021",
+        "shortdesc": "But must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, the master-builder of human happiness. No one rejects, dislikes, or avoids pleasure itse",
+        "htmldesc": "<p class='mb-20'> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip.</p><p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt</p> <figure class='mt-40 mb-40'> <img src='assets/img/blog/post-details.jpg' alt='Image'> </figure><h3 class='subtitle'>A cleansing hot shower or bath</h3><p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore</p><div class='divider'></div><h3 class='subtitle'>Setting the mood with incense</h3><div class='row align-items-center'><div class='col-lg-3 mb-lg-0 mb-4'> <img src='assets/img/blog/post-details-2.jpg' alt='Image'></div><div class='col-lg-9'><p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod</p></div></div><div class='divider'></div><h3 class='subtitle'>Setting the mood with incense</h3><ul class='post-content-list'><li><i class='fal fa-check'></i>Lorem ipsum dolor sit amet, consectetur</li><li><i class='fal fa-check'></i>Lorem ipsum dolor sit amet, consectetur</li><li><i class='fal fa-check'></i>Lorem ipsum dolor sit amet, consectetur</li><li><i class='fal fa-check'></i>Lorem ipsum dolor sit amet, consectetur</li><li><i class='fal fa-check'></i>Lorem ipsum dolor sit amet, consectetur</li><li><i class='fal fa-check'></i>Lorem ipsum dolor sit amet, consectetur</li><li><i class='fal fa-check'></i>Lorem ipsum dolor sit amet, consectetur</li><li><i class='fal fa-check'></i>Lorem ipsum dolor sit amet, consectetur</li><li><i class='fal fa-check'></i>Lorem ipsum dolor sit amet, consectetur</li><li><i class='fal fa-check'></i>Lorem ipsum dolor sit amet, consectetur</li></ul><blockquote class='mt-40 mb-40'><cite>by Hetmayar</cite> Choices to take a holiday and travelling out in this pandemic situation are limited. Why not take a staycation.<div class='quote-icon'> <img src='assets/img/blog/quote-icon.png' alt='quote'></div></blockquote><p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore.</p><div class='row align-items-center mt-20 mb-20'><div class='col-lg-4 mb-lg-0 mb-4'> <img src='assets/img/blog/post-details-3.jpg' alt='Image'></div><div class='col-lg-8'><p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p></div></div><p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>",
+        "author": [
+            1
+        ],
+        "category": [
+            1,
+            2
+        ],
+        "tags": [
+            1,
+            2,
+            3
+        ],
+        "views": 232,
+        "reviews": [
+            {
+                "user": [
+                    1
+                ],
+                "commentdate": "27th Jan 2021",
+                "comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+            },
+            {
+                "user": [
+                    2
+                ],
+                "commentdate": "26th Jan 2021",
+                "comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+            },
+            {
+                "user": [
+                    3
+                ],
+                "commentdate": "25th Jan 2021",
+                "comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "gridimg": "assets/img/blog/blog-grid-2.jpg",
+        "format": "video",
+        "video": "https://www.youtube.com/watch?v=TKnufs85hXk",
+        "title": "Inspired Design Decisions With Max Huber Turne",
+        "postdate": "21 Jan 2021",
+        "shortdesc": "But must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, the master-builder of human happiness. No one rejects, dislikes, or avoids pleasure itse",
+        "htmldesc": "<p class='mb-20'> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip.</p><p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt</p> <figure class='mt-40 mb-40'> <img src='assets/img/blog/post-details.jpg' alt='Image'> </figure><h3 class='subtitle'>A cleansing hot shower or bath</h3><p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore</p><div class='divider'></div><h3 class='subtitle'>Setting the mood with incense</h3><div class='row align-items-center'><div class='col-lg-3 mb-lg-0 mb-4'> <img src='assets/img/blog/post-details-2.jpg' alt='Image'></div><div class='col-lg-9'><p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod</p></div></div><div class='divider'></div><h3 class='subtitle'>Setting the mood with incense</h3><ul class='post-content-list'><li><i class='fal fa-check'></i>Lorem ipsum dolor sit amet, consectetur</li><li><i class='fal fa-check'></i>Lorem ipsum dolor sit amet, consectetur</li><li><i class='fal fa-check'></i>Lorem ipsum dolor sit amet, consectetur</li><li><i class='fal fa-check'></i>Lorem ipsum dolor sit amet, consectetur</li><li><i class='fal fa-check'></i>Lorem ipsum dolor sit amet, consectetur</li><li><i class='fal fa-check'></i>Lorem ipsum dolor sit amet, consectetur</li><li><i class='fal fa-check'></i>Lorem ipsum dolor sit amet, consectetur</li><li><i class='fal fa-check'></i>Lorem ipsum dolor sit amet, consectetur</li><li><i class='fal fa-check'></i>Lorem ipsum dolor sit amet, consectetur</li><li><i class='fal fa-check'></i>Lorem ipsum dolor sit amet, consectetur</li></ul><blockquote class='mt-40 mb-40'><cite>by Hetmayar</cite> Choices to take a holiday and travelling out in this pandemic situation are limited. Why not take a staycation.<div class='quote-icon'> <img src='assets/img/blog/quote-icon.png' alt='quote'></div></blockquote><p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore.</p><div class='row align-items-center mt-20 mb-20'><div class='col-lg-4 mb-lg-0 mb-4'> <img src='assets/img/blog/post-details-3.jpg' alt='Image'></div><div class='col-lg-8'><p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p></div></div><p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>",
+        "author": [
+            2
+        ],
+        "category": [
+            3,
+            4
+        ],
+        "tags": [
+            4,
+            5,
+            6
+        ],
+        "views": 232,
+        "reviews": [
+            {
+                "user": [
+                    1
+                ],
+                "commentdate": "27th Jan 2021",
+                "comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+            },
+            {
+                "user": [
+                    2
+                ],
+                "commentdate": "26th Jan 2021",
+                "comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+            },
+            {
+                "user": [
+                    3
+                ],
+                "commentdate": "25th Jan 2021",
+                "comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "gridimg": "assets/img/blog/blog-grid-3.jpg",
+        "format": "standard",
+        "title": "Mirage JS Deep Dive Understanding",
+        "postdate": "20 Jan 2021",
+        "shortdesc": "But must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, the master-builder of human happiness. No one rejects, dislikes, or avoids pleasure itse",
+        "htmldesc": "<p class='mb-20'> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip.</p><p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt</p> <figure class='mt-40 mb-40'> <img src='assets/img/blog/post-details.jpg' alt='Image'> </figure><h3 class='subtitle'>A cleansing hot shower or bath</h3><p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore</p><div class='divider'></div><h3 class='subtitle'>Setting the mood with incense</h3><div class='row align-items-center'><div class='col-lg-3 mb-lg-0 mb-4'> <img src='assets/img/blog/post-details-2.jpg' alt='Image'></div><div class='col-lg-9'><p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod</p></div></div><div class='divider'></div><h3 class='subtitle'>Setting the mood with incense</h3><ul class='post-content-list'><li><i class='fal fa-check'></i>Lorem ipsum dolor sit amet, consectetur</li><li><i class='fal fa-check'></i>Lorem ipsum dolor sit amet, consectetur</li><li><i class='fal fa-check'></i>Lorem ipsum dolor sit amet, consectetur</li><li><i class='fal fa-check'></i>Lorem ipsum dolor sit amet, consectetur</li><li><i class='fal fa-check'></i>Lorem ipsum dolor sit amet, consectetur</li><li><i class='fal fa-check'></i>Lorem ipsum dolor sit amet, consectetur</li><li><i class='fal fa-check'></i>Lorem ipsum dolor sit amet, consectetur</li><li><i class='fal fa-check'></i>Lorem ipsum dolor sit amet, consectetur</li><li><i class='fal fa-check'></i>Lorem ipsum dolor sit amet, consectetur</li><li><i class='fal fa-check'></i>Lorem ipsum dolor sit amet, consectetur</li></ul><blockquote class='mt-40 mb-40'><cite>by Hetmayar</cite> Choices to take a holiday and travelling out in this pandemic situation are limited. Why not take a staycation.<div class='quote-icon'> <img src='assets/img/blog/quote-icon.png' alt='quote'></div></blockquote><p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore.</p><div class='row align-items-center mt-20 mb-20'><div class='col-lg-4 mb-lg-0 mb-4'> <img src='assets/img/blog/post-details-3.jpg' alt='Image'></div><div class='col-lg-8'><p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p></div></div><p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>",
+        "author": [
+            3
+        ],
+        "category": [
+            5,
+            1
+        ],
+        "tags": [
+            7,
+            8,
+            1
+        ],
+        "views": 232,
+        "reviews": [
+            {
+                "user": [
+                    1
+                ],
+                "commentdate": "27th Jan 2021",
+                "comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+            },
+            {
+                "user": [
+                    2
+                ],
+                "commentdate": "26th Jan 2021",
+                "comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+            },
+            {
+                "user": [
+                    3
+                ],
+                "commentdate": "25th Jan 2021",
+                "comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "gridimg": "assets/img/blog/blog-grid-4.jpg",
+        "format": "standard",
+        "title": "Brighten Up Someone’s May With Max Huber Turne",
+        "postdate": "19 Jan 2021",
+        "shortdesc": "But must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, the master-builder of human happiness. No one rejects, dislikes, or avoids pleasure itse",
+        "htmldesc": "<p class='mb-20'> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip.</p><p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt</p> <figure class='mt-40 mb-40'> <img src='assets/img/blog/post-details.jpg' alt='Image'> </figure><h3 class='subtitle'>A cleansing hot shower or bath</h3><p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore</p><div class='divider'></div><h3 class='subtitle'>Setting the mood with incense</h3><div class='row align-items-center'><div class='col-lg-3 mb-lg-0 mb-4'> <img src='assets/img/blog/post-details-2.jpg' alt='Image'></div><div class='col-lg-9'><p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod</p></div></div><div class='divider'></div><h3 class='subtitle'>Setting the mood with incense</h3><ul class='post-content-list'><li><i class='fal fa-check'></i>Lorem ipsum dolor sit amet, consectetur</li><li><i class='fal fa-check'></i>Lorem ipsum dolor sit amet, consectetur</li><li><i class='fal fa-check'></i>Lorem ipsum dolor sit amet, consectetur</li><li><i class='fal fa-check'></i>Lorem ipsum dolor sit amet, consectetur</li><li><i class='fal fa-check'></i>Lorem ipsum dolor sit amet, consectetur</li><li><i class='fal fa-check'></i>Lorem ipsum dolor sit amet, consectetur</li><li><i class='fal fa-check'></i>Lorem ipsum dolor sit amet, consectetur</li><li><i class='fal fa-check'></i>Lorem ipsum dolor sit amet, consectetur</li><li><i class='fal fa-check'></i>Lorem ipsum dolor sit amet, consectetur</li><li><i class='fal fa-check'></i>Lorem ipsum dolor sit amet, consectetur</li></ul><blockquote class='mt-40 mb-40'><cite>by Hetmayar</cite> Choices to take a holiday and travelling out in this pandemic situation are limited. Why not take a staycation.<div class='quote-icon'> <img src='assets/img/blog/quote-icon.png' alt='quote'></div></blockquote><p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore.</p><div class='row align-items-center mt-20 mb-20'><div class='col-lg-4 mb-lg-0 mb-4'> <img src='assets/img/blog/post-details-3.jpg' alt='Image'></div><div class='col-lg-8'><p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p></div></div><p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>",
+        "author": [
+            4
+        ],
+        "category": [
+            2,
+            3
+        ],
+        "tags": [
+            2,
+            3,
+            4
+        ],
+        "views": 232,
+        "reviews": [
+            {
+                "user": [
+                    1
+                ],
+                "commentdate": "27th Jan 2021",
+                "comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+            },
+            {
+                "user": [
+                    2
+                ],
+                "commentdate": "26th Jan 2021",
+                "comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+            },
+            {
+                "user": [
+                    3
+                ],
+                "commentdate": "25th Jan 2021",
+                "comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "gridimg": "assets/img/blog/blog-grid-5.jpg",
+        "format": "standard",
+        "title": "Why Collaborative Coding Is The Ultimate Career Hack",
+        "postdate": "18 Jan 2021",
+        "shortdesc": "But must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, the master-builder of human happiness. No one rejects, dislikes, or avoids pleasure itse",
+        "htmldesc": "<p class='mb-20'> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip.</p><p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt</p> <figure class='mt-40 mb-40'> <img src='assets/img/blog/post-details.jpg' alt='Image'> </figure><h3 class='subtitle'>A cleansing hot shower or bath</h3><p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore</p><div class='divider'></div><h3 class='subtitle'>Setting the mood with incense</h3><div class='row align-items-center'><div class='col-lg-3 mb-lg-0 mb-4'> <img src='assets/img/blog/post-details-2.jpg' alt='Image'></div><div class='col-lg-9'><p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod</p></div></div><div class='divider'></div><h3 class='subtitle'>Setting the mood with incense</h3><ul class='post-content-list'><li><i class='fal fa-check'></i>Lorem ipsum dolor sit amet, consectetur</li><li><i class='fal fa-check'></i>Lorem ipsum dolor sit amet, consectetur</li><li><i class='fal fa-check'></i>Lorem ipsum dolor sit amet, consectetur</li><li><i class='fal fa-check'></i>Lorem ipsum dolor sit amet, consectetur</li><li><i class='fal fa-check'></i>Lorem ipsum dolor sit amet, consectetur</li><li><i class='fal fa-check'></i>Lorem ipsum dolor sit amet, consectetur</li><li><i class='fal fa-check'></i>Lorem ipsum dolor sit amet, consectetur</li><li><i class='fal fa-check'></i>Lorem ipsum dolor sit amet, consectetur</li><li><i class='fal fa-check'></i>Lorem ipsum dolor sit amet, consectetur</li><li><i class='fal fa-check'></i>Lorem ipsum dolor sit amet, consectetur</li></ul><blockquote class='mt-40 mb-40'><cite>by Hetmayar</cite> Choices to take a holiday and travelling out in this pandemic situation are limited. Why not take a staycation.<div class='quote-icon'> <img src='assets/img/blog/quote-icon.png' alt='quote'></div></blockquote><p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore.</p><div class='row align-items-center mt-20 mb-20'><div class='col-lg-4 mb-lg-0 mb-4'> <img src='assets/img/blog/post-details-3.jpg' alt='Image'></div><div class='col-lg-8'><p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p></div></div><p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>",
+        "author": [
+            5
+        ],
+        "category": [
+            1,
+            2
+        ],
+        "tags": [
+            5,
+            6,
+            7
+        ],
+        "views": 232,
+        "reviews": [
+            {
+                "user": [
+                    1
+                ],
+                "commentdate": "27th Jan 2021",
+                "comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+            },
+            {
+                "user": [
+                    2
+                ],
+                "commentdate": "26th Jan 2021",
+                "comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+            },
+            {
+                "user": [
+                    3
+                ],
+                "commentdate": "25th Jan 2021",
+                "comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "gridimg": "assets/img/blog/blog-grid-6.jpg",
+        "format": "standard",
+        "title": "Responsive Web & Desktop Development Flutter",
+        "postdate": "17 Jan 2021",
+        "shortdesc": "But must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, the master-builder of human happiness. No one rejects, dislikes, or avoids pleasure itse",
+        "htmldesc": "<p class='mb-20'> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip.</p><p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt</p> <figure class='mt-40 mb-40'> <img src='assets/img/blog/post-details.jpg' alt='Image'> </figure><h3 class='subtitle'>A cleansing hot shower or bath</h3><p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore</p><div class='divider'></div><h3 class='subtitle'>Setting the mood with incense</h3><div class='row align-items-center'><div class='col-lg-3 mb-lg-0 mb-4'> <img src='assets/img/blog/post-details-2.jpg' alt='Image'></div><div class='col-lg-9'><p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod</p></div></div><div class='divider'></div><h3 class='subtitle'>Setting the mood with incense</h3><ul class='post-content-list'><li><i class='fal fa-check'></i>Lorem ipsum dolor sit amet, consectetur</li><li><i class='fal fa-check'></i>Lorem ipsum dolor sit amet, consectetur</li><li><i class='fal fa-check'></i>Lorem ipsum dolor sit amet, consectetur</li><li><i class='fal fa-check'></i>Lorem ipsum dolor sit amet, consectetur</li><li><i class='fal fa-check'></i>Lorem ipsum dolor sit amet, consectetur</li><li><i class='fal fa-check'></i>Lorem ipsum dolor sit amet, consectetur</li><li><i class='fal fa-check'></i>Lorem ipsum dolor sit amet, consectetur</li><li><i class='fal fa-check'></i>Lorem ipsum dolor sit amet, consectetur</li><li><i class='fal fa-check'></i>Lorem ipsum dolor sit amet, consectetur</li><li><i class='fal fa-check'></i>Lorem ipsum dolor sit amet, consectetur</li></ul><blockquote class='mt-40 mb-40'><cite>by Hetmayar</cite> Choices to take a holiday and travelling out in this pandemic situation are limited. Why not take a staycation.<div class='quote-icon'> <img src='assets/img/blog/quote-icon.png' alt='quote'></div></blockquote><p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore.</p><div class='row align-items-center mt-20 mb-20'><div class='col-lg-4 mb-lg-0 mb-4'> <img src='assets/img/blog/post-details-3.jpg' alt='Image'></div><div class='col-lg-8'><p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p></div></div><p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>",
+        "author": [
+            6
+        ],
+        "category": [
+            4,
+            5
+        ],
+        "tags": [
+            8,
+            1,
+            2
+        ],
+        "views": 232,
+        "reviews": [
+            {
+                "user": [
+                    1
+                ],
+                "commentdate": "27th Jan 2021",
+                "comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+            },
+            {
+                "user": [
+                    2
+                ],
+                "commentdate": "26th Jan 2021",
+                "comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+            },
+            {
+                "user": [
+                    3
+                ],
+                "commentdate": "25th Jan 2021",
+                "comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "gridimg": "assets/img/blog/blog-grid-7.jpg",
+        "format": "standard",
+        "title": "How To Create Particle Trail Animation In JavaScript",
+        "postdate": "16 Jan 2021",
+        "shortdesc": "But must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, the master-builder of human happiness. No one rejects, dislikes, or avoids pleasure itse",
+        "htmldesc": "<p class='mb-20'> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip.</p><p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt</p> <figure class='mt-40 mb-40'> <img src='assets/img/blog/post-details.jpg' alt='Image'> </figure><h3 class='subtitle'>A cleansing hot shower or bath</h3><p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore</p><div class='divider'></div><h3 class='subtitle'>Setting the mood with incense</h3><div class='row align-items-center'><div class='col-lg-3 mb-lg-0 mb-4'> <img src='assets/img/blog/post-details-2.jpg' alt='Image'></div><div class='col-lg-9'><p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod</p></div></div><div class='divider'></div><h3 class='subtitle'>Setting the mood with incense</h3><ul class='post-content-list'><li><i class='fal fa-check'></i>Lorem ipsum dolor sit amet, consectetur</li><li><i class='fal fa-check'></i>Lorem ipsum dolor sit amet, consectetur</li><li><i class='fal fa-check'></i>Lorem ipsum dolor sit amet, consectetur</li><li><i class='fal fa-check'></i>Lorem ipsum dolor sit amet, consectetur</li><li><i class='fal fa-check'></i>Lorem ipsum dolor sit amet, consectetur</li><li><i class='fal fa-check'></i>Lorem ipsum dolor sit amet, consectetur</li><li><i class='fal fa-check'></i>Lorem ipsum dolor sit amet, consectetur</li><li><i class='fal fa-check'></i>Lorem ipsum dolor sit amet, consectetur</li><li><i class='fal fa-check'></i>Lorem ipsum dolor sit amet, consectetur</li><li><i class='fal fa-check'></i>Lorem ipsum dolor sit amet, consectetur</li></ul><blockquote class='mt-40 mb-40'><cite>by Hetmayar</cite> Choices to take a holiday and travelling out in this pandemic situation are limited. Why not take a staycation.<div class='quote-icon'> <img src='assets/img/blog/quote-icon.png' alt='quote'></div></blockquote><p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore.</p><div class='row align-items-center mt-20 mb-20'><div class='col-lg-4 mb-lg-0 mb-4'> <img src='assets/img/blog/post-details-3.jpg' alt='Image'></div><div class='col-lg-8'><p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p></div></div><p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>",
+        "author": [
+            7
+        ],
+        "category": [
+            1,
+            2
+        ],
+        "tags": [
+            3,
+            4,
+            5
+        ],
+        "views": 232,
+        "reviews": [
+            {
+                "user": [
+                    1
+                ],
+                "commentdate": "27th Jan 2021",
+                "comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+            },
+            {
+                "user": [
+                    2
+                ],
+                "commentdate": "26th Jan 2021",
+                "comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+            },
+            {
+                "user": [
+                    3
+                ],
+                "commentdate": "25th Jan 2021",
+                "comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "gridimg": "assets/img/blog/blog-grid-8.jpg",
+        "format": "standard",
+        "title": "Inspired Design Decisions With Herb Lubalin Can",
+        "postdate": "15 Jan 2021",
+        "shortdesc": "But must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, the master-builder of human happiness. No one rejects, dislikes, or avoids pleasure itse",
+        "htmldesc": "<p class='mb-20'> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip.</p><p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt</p> <figure class='mt-40 mb-40'> <img src='assets/img/blog/post-details.jpg' alt='Image'> </figure><h3 class='subtitle'>A cleansing hot shower or bath</h3><p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore</p><div class='divider'></div><h3 class='subtitle'>Setting the mood with incense</h3><div class='row align-items-center'><div class='col-lg-3 mb-lg-0 mb-4'> <img src='assets/img/blog/post-details-2.jpg' alt='Image'></div><div class='col-lg-9'><p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod</p></div></div><div class='divider'></div><h3 class='subtitle'>Setting the mood with incense</h3><ul class='post-content-list'><li><i class='fal fa-check'></i>Lorem ipsum dolor sit amet, consectetur</li><li><i class='fal fa-check'></i>Lorem ipsum dolor sit amet, consectetur</li><li><i class='fal fa-check'></i>Lorem ipsum dolor sit amet, consectetur</li><li><i class='fal fa-check'></i>Lorem ipsum dolor sit amet, consectetur</li><li><i class='fal fa-check'></i>Lorem ipsum dolor sit amet, consectetur</li><li><i class='fal fa-check'></i>Lorem ipsum dolor sit amet, consectetur</li><li><i class='fal fa-check'></i>Lorem ipsum dolor sit amet, consectetur</li><li><i class='fal fa-check'></i>Lorem ipsum dolor sit amet, consectetur</li><li><i class='fal fa-check'></i>Lorem ipsum dolor sit amet, consectetur</li><li><i class='fal fa-check'></i>Lorem ipsum dolor sit amet, consectetur</li></ul><blockquote class='mt-40 mb-40'><cite>by Hetmayar</cite> Choices to take a holiday and travelling out in this pandemic situation are limited. Why not take a staycation.<div class='quote-icon'> <img src='assets/img/blog/quote-icon.png' alt='quote'></div></blockquote><p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore.</p><div class='row align-items-center mt-20 mb-20'><div class='col-lg-4 mb-lg-0 mb-4'> <img src='assets/img/blog/post-details-3.jpg' alt='Image'></div><div class='col-lg-8'><p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p></div></div><p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>",
+        "author": [
+            8
+        ],
+        "category": [
+            3,
+            4
+        ],
+        "tags": [
+            6,
+            7,
+            8
+        ],
+        "views": 232,
+        "reviews": [
+            {
+                "user": [
+                    1
+                ],
+                "commentdate": "27th Jan 2021",
+                "comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+            },
+            {
+                "user": [
+                    2
+                ],
+                "commentdate": "26th Jan 2021",
+                "comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+            },
+            {
+                "user": [
+                    3
+                ],
+                "commentdate": "25th Jan 2021",
+                "comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "gridimg": "assets/img/blog/blog-grid-9.jpg",
+        "format": "standard",
+        "title": "Inspired Design Decisions With Max Huber Turne",
+        "postdate": "21 Jan 2021",
+        "shortdesc": "But must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, the master-builder of human happiness. No one rejects, dislikes, or avoids pleasure itse",
+        "htmldesc": "<p class='mb-20'> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip.</p><p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt</p> <figure class='mt-40 mb-40'> <img src='assets/img/blog/post-details.jpg' alt='Image'> </figure><h3 class='subtitle'>A cleansing hot shower or bath</h3><p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore</p><div class='divider'></div><h3 class='subtitle'>Setting the mood with incense</h3><div class='row align-items-center'><div class='col-lg-3 mb-lg-0 mb-4'> <img src='assets/img/blog/post-details-2.jpg' alt='Image'></div><div class='col-lg-9'><p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod</p></div></div><div class='divider'></div><h3 class='subtitle'>Setting the mood with incense</h3><ul class='post-content-list'><li><i class='fal fa-check'></i>Lorem ipsum dolor sit amet, consectetur</li><li><i class='fal fa-check'></i>Lorem ipsum dolor sit amet, consectetur</li><li><i class='fal fa-check'></i>Lorem ipsum dolor sit amet, consectetur</li><li><i class='fal fa-check'></i>Lorem ipsum dolor sit amet, consectetur</li><li><i class='fal fa-check'></i>Lorem ipsum dolor sit amet, consectetur</li><li><i class='fal fa-check'></i>Lorem ipsum dolor sit amet, consectetur</li><li><i class='fal fa-check'></i>Lorem ipsum dolor sit amet, consectetur</li><li><i class='fal fa-check'></i>Lorem ipsum dolor sit amet, consectetur</li><li><i class='fal fa-check'></i>Lorem ipsum dolor sit amet, consectetur</li><li><i class='fal fa-check'></i>Lorem ipsum dolor sit amet, consectetur</li></ul><blockquote class='mt-40 mb-40'><cite>by Hetmayar</cite> Choices to take a holiday and travelling out in this pandemic situation are limited. Why not take a staycation.<div class='quote-icon'> <img src='assets/img/blog/quote-icon.png' alt='quote'></div></blockquote><p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore.</p><div class='row align-items-center mt-20 mb-20'><div class='col-lg-4 mb-lg-0 mb-4'> <img src='assets/img/blog/post-details-3.jpg' alt='Image'></div><div class='col-lg-8'><p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p></div></div><p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>",
+        "author": [
+            2
+        ],
+        "category": [
+            3,
+            4
+        ],
+        "tags": [
+            4,
+            5,
+            6
+        ],
+        "views": 232,
+        "reviews": [
+            {
+                "user": [
+                    1
+                ],
+                "commentdate": "27th Jan 2021",
+                "comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+            },
+            {
+                "user": [
+                    2
+                ],
+                "commentdate": "26th Jan 2021",
+                "comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+            },
+            {
+                "user": [
+                    3
+                ],
+                "commentdate": "25th Jan 2021",
+                "comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "gridimg": "assets/img/blog/blog-grid-10.jpg",
+        "format": "standard",
+        "title": "Mirage JS Deep Dive Understanding",
+        "postdate": "20 Jan 2021",
+        "shortdesc": "But must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, the master-builder of human happiness. No one rejects, dislikes, or avoids pleasure itse",
+        "htmldesc": "<p class='mb-20'> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip.</p><p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt</p> <figure class='mt-40 mb-40'> <img src='assets/img/blog/post-details.jpg' alt='Image'> </figure><h3 class='subtitle'>A cleansing hot shower or bath</h3><p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore</p><div class='divider'></div><h3 class='subtitle'>Setting the mood with incense</h3><div class='row align-items-center'><div class='col-lg-3 mb-lg-0 mb-4'> <img src='assets/img/blog/post-details-2.jpg' alt='Image'></div><div class='col-lg-9'><p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod</p></div></div><div class='divider'></div><h3 class='subtitle'>Setting the mood with incense</h3><ul class='post-content-list'><li><i class='fal fa-check'></i>Lorem ipsum dolor sit amet, consectetur</li><li><i class='fal fa-check'></i>Lorem ipsum dolor sit amet, consectetur</li><li><i class='fal fa-check'></i>Lorem ipsum dolor sit amet, consectetur</li><li><i class='fal fa-check'></i>Lorem ipsum dolor sit amet, consectetur</li><li><i class='fal fa-check'></i>Lorem ipsum dolor sit amet, consectetur</li><li><i class='fal fa-check'></i>Lorem ipsum dolor sit amet, consectetur</li><li><i class='fal fa-check'></i>Lorem ipsum dolor sit amet, consectetur</li><li><i class='fal fa-check'></i>Lorem ipsum dolor sit amet, consectetur</li><li><i class='fal fa-check'></i>Lorem ipsum dolor sit amet, consectetur</li><li><i class='fal fa-check'></i>Lorem ipsum dolor sit amet, consectetur</li></ul><blockquote class='mt-40 mb-40'><cite>by Hetmayar</cite> Choices to take a holiday and travelling out in this pandemic situation are limited. Why not take a staycation.<div class='quote-icon'> <img src='assets/img/blog/quote-icon.png' alt='quote'></div></blockquote><p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore.</p><div class='row align-items-center mt-20 mb-20'><div class='col-lg-4 mb-lg-0 mb-4'> <img src='assets/img/blog/post-details-3.jpg' alt='Image'></div><div class='col-lg-8'><p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p></div></div><p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>",
+        "author": [
+            3
+        ],
+        "category": [
+            5,
+            1
+        ],
+        "tags": [
+            7,
+            8,
+            1
+        ],
+        "views": 232,
+        "reviews": [
+            {
+                "user": [
+                    1
+                ],
+                "commentdate": "27th Jan 2021",
+                "comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+            },
+            {
+                "user": [
+                    2
+                ],
+                "commentdate": "26th Jan 2021",
+                "comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+            },
+            {
+                "user": [
+                    3
+                ],
+                "commentdate": "25th Jan 2021",
+                "comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+            }
+        ]
+    },
+    {
+        "id": 11,
+        "gridimg": "assets/img/blog/blog-grid-11.jpg",
+        "format": "standard",
+        "title": "Brighten Up Someone’s May With Max Huber Turne",
+        "postdate": "19 Jan 2021",
+        "shortdesc": "But must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, the master-builder of human happiness. No one rejects, dislikes, or avoids pleasure itse",
+        "htmldesc": "<p class='mb-20'> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip.</p><p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt</p> <figure class='mt-40 mb-40'> <img src='assets/img/blog/post-details.jpg' alt='Image'> </figure><h3 class='subtitle'>A cleansing hot shower or bath</h3><p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore</p><div class='divider'></div><h3 class='subtitle'>Setting the mood with incense</h3><div class='row align-items-center'><div class='col-lg-3 mb-lg-0 mb-4'> <img src='assets/img/blog/post-details-2.jpg' alt='Image'></div><div class='col-lg-9'><p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod</p></div></div><div class='divider'></div><h3 class='subtitle'>Setting the mood with incense</h3><ul class='post-content-list'><li><i class='fal fa-check'></i>Lorem ipsum dolor sit amet, consectetur</li><li><i class='fal fa-check'></i>Lorem ipsum dolor sit amet, consectetur</li><li><i class='fal fa-check'></i>Lorem ipsum dolor sit amet, consectetur</li><li><i class='fal fa-check'></i>Lorem ipsum dolor sit amet, consectetur</li><li><i class='fal fa-check'></i>Lorem ipsum dolor sit amet, consectetur</li><li><i class='fal fa-check'></i>Lorem ipsum dolor sit amet, consectetur</li><li><i class='fal fa-check'></i>Lorem ipsum dolor sit amet, consectetur</li><li><i class='fal fa-check'></i>Lorem ipsum dolor sit amet, consectetur</li><li><i class='fal fa-check'></i>Lorem ipsum dolor sit amet, consectetur</li><li><i class='fal fa-check'></i>Lorem ipsum dolor sit amet, consectetur</li></ul><blockquote class='mt-40 mb-40'><cite>by Hetmayar</cite> Choices to take a holiday and travelling out in this pandemic situation are limited. Why not take a staycation.<div class='quote-icon'> <img src='assets/img/blog/quote-icon.png' alt='quote'></div></blockquote><p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore.</p><div class='row align-items-center mt-20 mb-20'><div class='col-lg-4 mb-lg-0 mb-4'> <img src='assets/img/blog/post-details-3.jpg' alt='Image'></div><div class='col-lg-8'><p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p></div></div><p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>",
+        "author": [
+            4
+        ],
+        "category": [
+            2,
+            3
+        ],
+        "tags": [
+            2,
+            3,
+            4
+        ],
+        "views": 232,
+        "reviews": [
+            {
+                "user": [
+                    1
+                ],
+                "commentdate": "27th Jan 2021",
+                "comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+            },
+            {
+                "user": [
+                    2
+                ],
+                "commentdate": "26th Jan 2021",
+                "comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+            },
+            {
+                "user": [
+                    3
+                ],
+                "commentdate": "25th Jan 2021",
+                "comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+            }
+        ]
+    },
+    {
+        "id": 12,
+        "gridimg": "assets/img/blog/blog-grid-12.jpg",
+        "format": "standard",
+        "title": "Why Collaborative Coding Is The Ultimate Career Hack",
+        "postdate": "18 Jan 2021",
+        "shortdesc": "But must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, the master-builder of human happiness. No one rejects, dislikes, or avoids pleasure itse",
+        "htmldesc": "<p class='mb-20'> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip.</p><p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt</p> <figure class='mt-40 mb-40'> <img src='assets/img/blog/post-details.jpg' alt='Image'> </figure><h3 class='subtitle'>A cleansing hot shower or bath</h3><p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore</p><div class='divider'></div><h3 class='subtitle'>Setting the mood with incense</h3><div class='row align-items-center'><div class='col-lg-3 mb-lg-0 mb-4'> <img src='assets/img/blog/post-details-2.jpg' alt='Image'></div><div class='col-lg-9'><p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod</p></div></div><div class='divider'></div><h3 class='subtitle'>Setting the mood with incense</h3><ul class='post-content-list'><li><i class='fal fa-check'></i>Lorem ipsum dolor sit amet, consectetur</li><li><i class='fal fa-check'></i>Lorem ipsum dolor sit amet, consectetur</li><li><i class='fal fa-check'></i>Lorem ipsum dolor sit amet, consectetur</li><li><i class='fal fa-check'></i>Lorem ipsum dolor sit amet, consectetur</li><li><i class='fal fa-check'></i>Lorem ipsum dolor sit amet, consectetur</li><li><i class='fal fa-check'></i>Lorem ipsum dolor sit amet, consectetur</li><li><i class='fal fa-check'></i>Lorem ipsum dolor sit amet, consectetur</li><li><i class='fal fa-check'></i>Lorem ipsum dolor sit amet, consectetur</li><li><i class='fal fa-check'></i>Lorem ipsum dolor sit amet, consectetur</li><li><i class='fal fa-check'></i>Lorem ipsum dolor sit amet, consectetur</li></ul><blockquote class='mt-40 mb-40'><cite>by Hetmayar</cite> Choices to take a holiday and travelling out in this pandemic situation are limited. Why not take a staycation.<div class='quote-icon'> <img src='assets/img/blog/quote-icon.png' alt='quote'></div></blockquote><p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore.</p><div class='row align-items-center mt-20 mb-20'><div class='col-lg-4 mb-lg-0 mb-4'> <img src='assets/img/blog/post-details-3.jpg' alt='Image'></div><div class='col-lg-8'><p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p></div></div><p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>",
+        "author": [
+            5
+        ],
+        "category": [
+            1,
+            2
+        ],
+        "tags": [
+            5,
+            6,
+            7
+        ],
+        "views": 232,
+        "reviews": [
+            {
+                "user": [
+                    1
+                ],
+                "commentdate": "27th Jan 2021",
+                "comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+            },
+            {
+                "user": [
+                    2
+                ],
+                "commentdate": "26th Jan 2021",
+                "comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+            },
+            {
+                "user": [
+                    3
+                ],
+                "commentdate": "25th Jan 2021",
+                "comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+            }
+        ]
+    }
+]

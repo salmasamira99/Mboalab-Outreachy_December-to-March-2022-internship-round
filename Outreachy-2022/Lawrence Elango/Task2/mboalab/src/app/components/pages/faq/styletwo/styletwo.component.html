@@ -1,0 +1,24 @@
+<section class="faq-section-two soft-blue-bg section-gap">
+    <div class="container">
+        <div class="row align-items-center justify-content-center">
+            <div class="col-lg-6 col-md-9">
+                <div class="intro-video-with-shape mb-md-gap-60"> 
+                    <img src="assets/img/about-intro-thumb.jpg" alt="img"> 
+                    <a href="https://www.youtube.com/watch?v=TKnufs85hXk" class="video-popup popup-youtube"><i class="fas fa-play"></i></a> 
+                </div>
+            </div>
+            <div class="col-lg-6 col-md-10">
+                <ngb-accordion [closeOthers]="true" activeIds="static-1" class="accordion-four">
+                    <ngb-panel id="static-{{1+i}}" *ngFor="let item of faqs;let i = index">
+                        <ng-template ngbPanelTitle>
+                            <i class="fal fa-magic"></i> {{item.title}}
+                        </ng-template>
+                        <ng-template ngbPanelContent> 
+                            <p>{{item.text}}</p>
+                        </ng-template>
+                    </ngb-panel>
+                </ngb-accordion>
+            </div>
+        </div>
+    </div>
+</section>

@@ -1,0 +1,26 @@
+[
+  {
+    "img": "assets/img/banner/banner-img.png",
+    "bgimg": "assets/img/banner/banner-01.jpg",
+    "bgimgtwo":"assets/img/banner/banner-04.jpg",
+    "subtitle": "IT Business Consulting",
+    "title": "Best IT Soluations Provider Agency",
+    "text": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremda tium totam rem aperiam eaque ipsa quae ab illo inventore veritatis"
+  },
+  {
+    "img": "assets/img/banner/banner-img.png",
+    "bgimg": "assets/img/banner/banner-02.jpg",
+    "bgimgtwo":"assets/img/banner/banner-05.jpg",
+    "subtitle": "IT Business Consulting",
+    "title": "Best IT Soluations Provider Agency",
+    "text": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremda tium totam rem aperiam eaque ipsa quae ab illo inventore veritatis"
+  },
+  {
+    "img": "assets/img/banner/banner-img.png",
+    "bgimg": "assets/img/banner/banner-03.jpg",
+    "bgimgtwo":"assets/img/banner/banner-06.jpg",
+    "subtitle": "IT Business Consulting",
+    "title": "Best IT Soluations Provider Agency",
+    "text": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremda tium totam rem aperiam eaque ipsa quae ab illo inventore veritatis"
+  }
+]

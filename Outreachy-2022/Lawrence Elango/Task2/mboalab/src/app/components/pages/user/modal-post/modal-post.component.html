@@ -1,0 +1,104 @@
+<ng-template #postModal>
+  <div class="modal-header">
+    <h4 class="modal-title pull-left">{{ modalTitle }}</h4>
+    <button
+      type="button"
+      class="close pull-right"
+      aria-label="Close"
+      (click)="closeModal()"
+    >
+      <span aria-hidden="true">&times;</span>
+    </button>
+  </div>
+  <div class="modal-body">
+    <form
+      class="form"
+      id="feedbackForm"
+      [formGroup]="postForm"
+      (ngSubmit)="onSubmitPost()"
+    >
+      <div *ngIf="action == 'addPost' || action == 'updatePost'">
+        <div class="form-row">
+          <div class="form-group col-md-6">
+            <label for="exampleInputEmail1">Title</label>
+            <input
+              type="text"
+              class="form-control"
+              formControlName="title"
+              id="exampleInputEmail1"
+              aria-describedby="emailHelp"
+              placeholder="Enter post title"
+            />
+          </div>
+          <div class="form-group col-md-6">
+            <label for="lastname">Category</label>
+            <ng-multiselect-dropdown
+              [placeholder]="'Select ...'"
+              [settings]="dropdownSettings"
+              [data]="categories"
+              formControlName="category"
+              (onSelect)="onCategorySelect($event)"
+              (onDeSelect)="onCategoryDeSelect($event)"
+            >
+            </ng-multiselect-dropdown>
+          </div>
+        </div>
+        <div class="form-group">
+          <label for="exampleInputEmail1">Content</label>
+          <textarea
+            rows="4"
+            formControlName="content"
+            class="form-control no-resize"
+            placeholder="Enter post content"
+          ></textarea>
+        </div>
+        <div class="form-group">
+          <input
+            type="file"
+            class="dropify form-control file-chooser mb-2"
+            (change)="fileChanged($event)"
+          />
+          <img class="photo" src="{{ preview ? preview : default }}" alt="" />
+        </div>
+      </div>
+
+      <span *ngIf="action == 'deletePost'">
+        <p class="text-3 text-center text-muted">{{ modalText }}</p>
+      </span>
+      <button #postSubmitBtn type="submit" hidden></button>
+    </form>
+  </div>
+  <div class="modal-footer">
+    <button
+      type="button"
+      class="btn btn-round btn-danger"
+      *ngIf="action == 'deletePost'"
+      (click)="postSubmitBtn.click()"
+    >
+      Delete &nbsp;
+      <div class="spinner-border float-right" role="status" *ngIf="loading">
+        <span class="sr-only">Loading...</span>
+      </div>
+    </button>
+    <button
+      type="button"
+      class="btn btn-round btn-primary"
+      style="background-color: #6cb440"
+      [disabled]="loading"
+      *ngIf="action == 'addPost' || action == 'updatePost'"
+      (click)="postSubmitBtn.click()"
+    >
+      Submit &nbsp;
+      <div class="spinner-border float-right" role="status" *ngIf="loading">
+        <span class="sr-only">Loading...</span>
+      </div>
+    </button>
+    <button
+      type="button"
+      class="btn btn-round btn-default"
+      (click)="closeModal()"
+    >
+      Close
+    </button>
+  </div>
+</ng-template>
