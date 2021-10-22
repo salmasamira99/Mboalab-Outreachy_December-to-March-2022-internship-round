@@ -1,0 +1,49 @@
+#PROJECT DESCRIPTION
+
+This project is to improve diagnostics of typhoid through Open Science: An Artificial Intelligence-based technique.
+
+#CONTEXT
+
+Typhoid or Enteric Fever is one of the infectious human diseases in Cameroon and Africa and is considered a serious health problem world wide.
+
+Misdiagnosis is usually experienced as most health facilities us only WIDAL Test without confirmation of results with a second test method.
+
+#OPPORTUNITIES AND SOLUTION
+
+In healthcare, we cannot ignore the importance of human intelligence and so cannot replace it fully with AI, so we will combine AI systems with an irreplaceable human clinician to advance better diagnosis.
+We will use the **microculture test with blood**, as it is accepted as best by lab technicians.
+
+The algorithm will be based on 18 symptoms variable, which will help us confirm diagnosis and to determine the level of severity of the disease.
+**Main challenge: AVAILABILITY OF LOCAL AND HIGH QUALITY OPEN DATA**
+
+#TASK
+
+Design a Data Collection tool to record Symptoms Data
+
+##IMPORTANT CHARACTERISTICS OF THE DATA COLLECTION TOOL
+
+-It should be addressed to local health care professionals and practitioners affiliated to and having access to patients data records
+-The tool should enable acquisition of prospective and retrospective dataset.
+-The tool should take into account local and context specifities (language, access to specific resources, etc)
+-The developed tool can take many forms eg, surveys, questionnaires, interviews etc
+
+#THE PREFERRED AND MOST FITTING TOOL:
+
+-## GOOGLE FORM
+
+Reason for this choice of data collection tool are;
+-It is **open source** (which aligns with Mboalab's objectives)
+-It is adaptable (good for surveys, questionnaires, interviews, etc)
+-You can set questions and dependencies
+
+#NOTE
+The above collection tool can **easily** be created on an offline tool as well.
+
+
+#MY DESIGNED COLLECTION TOOL
+
+This tool was built using [here](https://docs.google.com/forms/d/1BBL1DHSDd64QTwobiA1bKjV9-f1azQ592BIl7KaNzZI/edit)
+
+#FEEDBACK ABOUT DEVELOPED TOOL FROM COMMUNITY
+
+Waiting for this
