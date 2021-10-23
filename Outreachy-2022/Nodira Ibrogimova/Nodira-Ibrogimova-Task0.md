@@ -1,5 +1,7 @@
 **Applicant name**: Nodira Ibrogimova
 
+*NOTE*: All contribution details are listed in one PR. Commits provide more details such dates of contributions
+
 Task list:
 - [x] Get acquainted with the project scope and tasks
 - [x] Define the overview, objectives and logistics of the project in detail in a written form
@@ -21,6 +23,8 @@ Task list:
 - [x] Complete Task 4
 
     Research and result details will be updated shortly
+
+- [x] Integrate files providing details of the repository to a directly opened & read format
 
 # **SYNOPSIS**
 

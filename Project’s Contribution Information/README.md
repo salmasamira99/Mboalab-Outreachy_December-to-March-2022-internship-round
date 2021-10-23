@@ -23,7 +23,7 @@ _**Both individual or collective contributions to a particular task are welcomed
 2. Make sure to move to an **outreachy-2022** branch before making changes in your working directory
 3. All contributions have to be listed in **Outreachy-2022** folder.
 
-    3.1 Create a folder with a naming convention **[Applicant Name]** (e.g **John Smith**) in **Outreachy-2022/Applicants Contribution**
+    3.1 Create a folder with a naming convention **[Applicant Name]** (e.g **John Smith**) in **Outreachy-2022**
     
     3.2 List all your contributions in your **[Applicant Name]** folder in respective files *Task0.md*, *Task1.md*, and etc.
     
@@ -46,7 +46,7 @@ Familiarize yourself with the following Best Practices:
 
 
 ## Migration
-**NOTE**: Skip this section if you have not Pull Requests with earlier version of the project
+**NOTE**: Skip this section if you have not *Pull Requests* with earlier version of the project
 
 - Sync your forked repository with the original repository and push the changes to your GitHub repository.
 
