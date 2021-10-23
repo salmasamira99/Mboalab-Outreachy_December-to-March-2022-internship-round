@@ -1,3 +1,4 @@
+# Research
 Options for the Data collection tool to record Typhoid Fever symptoms Data:
 
 ##### *The details are listed followed by the options*
@@ -13,3 +14,14 @@ Options for the Data collection tool to record Typhoid Fever symptoms Data:
     This choice is optimal in case custom design and specific preferences are required.
     As long as the objective of the project is to combine AI with irreplacable clinicians, building custom platform/tool could be more reliable.
 
+
+...details are coming soon
+
+
+#### Articles referenced for detailed Q&A in forms:
+[What you need to know about typhoid](https://www.medicalnewstoday.com/articles/156859)
+[About Typhoid Fever](http://www.spartanmemes.com/english/medical-blogs/typhoid-fever/)
+
+# Result
+
+...details are coming soon

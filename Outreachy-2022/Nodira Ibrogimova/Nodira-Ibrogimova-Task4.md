@@ -1,6 +1,6 @@
-**Step 1** (very important): The platform of data collection is confirmed by the mentor
+# Research
 
-**Step 2**: Relative question depending on the subject.
+...details are coming soon
 
 ### For patients:
 **What to expect from your doctor?**
@@ -26,3 +26,6 @@ The doctor is likely to ask a patient a number of questions. Being ready to answ
 5. How long do you expect a full recovery will take?
 6. When can I return to work or school?
 7. Am I at risk of any long-term complications from typhoid fever?
+
+# Result
+...details are coming soon

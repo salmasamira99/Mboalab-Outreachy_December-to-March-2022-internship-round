@@ -1,13 +1,26 @@
 **Applicant name**: Nodira Ibrogimova
 
-**Contact information**: nodira.ibrogimova@gmail.com
-
 Task list:
 - [x] Get acquainted with the project scope and tasks
 - [x] Define the overview, objectives and logistics of the project in detail in a written form
-- [x] Review writing and formatting instruction on [GitHub Docs](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)  
+- [x] Review writing and formatting instruction at [GitHub Docs](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)  
 - [x] Review and use best practices for [Git Branching Naming Convention](https://codingsight.com/git-branching-naming-convention-best-practices/)
 - [x] Review and use [Commit Message Format](https://github.com/angular/angular/blob/master/CONTRIBUTING.md#commit)
+- [x] Provide migration format for the original project. Test it, receive feedback and deploy for use. Migrate the original repository to a new version.
+- [x] Complete Task 0
+- [x] Complete Task 1
+    
+    Several versions with details are present in a respective folder location
+- [x] Complete Task 2
+    
+    All details including stack are available in a respective folder location
+- [x] Complete Task 3
+
+    Research and result details will be updated shortly
+
+- [x] Complete Task 4
+
+    Research and result details will be updated shortly
 
 # **SYNOPSIS**
 
