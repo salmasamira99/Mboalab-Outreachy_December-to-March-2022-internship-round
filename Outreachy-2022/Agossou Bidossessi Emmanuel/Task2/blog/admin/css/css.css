@@ -1,0 +1,275 @@
+.membre             {
+		    background-image:url('../img/membre.jpg');
+                    background-repeat: no-repeat;
+                    } 
+#deconnection 	    {
+		    text-decoration: none;
+		    font-family:"Arial","Geneva",sans-serif;
+ 		    font-size: 10pt;
+                    margin-top: 12px;
+                    text-indent: 449px;
+                    color: red;
+		    }
+#deconnection a     {
+		    text-decoration: none;
+		    font-family:"Arial","Geneva",sans-serif;
+	  	    font-size:10pt;
+		    color: red;
+        	    }
+#deconnection a:hover{
+		    text-decoration: underline;
+		    font-family:"Arial","Geneva",sans-serif;
+	  	    font-size:10pt;
+		    color: red;
+        	    }
+.lien_menu_haut	    {
+		    text-decoration: none;
+		    font-family:"Arial","Geneva",sans-serif;
+	  	    font-size:12px;
+		    color:#0262DD;
+		    }
+.lien_menu_haut a   {
+		    text-decoration: none;
+		    font-family:"Arial","Geneva",sans-serif;
+	  	    font-size:12px;
+		    color:#0262DD;
+        	    }
+.lien_menu_haut a:hover  {
+		    text-decoration: underline;
+		    font-family:"Arial","Geneva",sans-serif;
+	  	    font-size:12px;
+		    color:#0262DD;
+        	    }
+#menu               {
+		    background-image:url('../img/menu.jpg');
+                    background-repeat: no-repeat;
+                    margin:auto;
+                    width: 969px;
+                    height: 56px;
+                    padding-top:50px;
+		    }
+td                  {
+                    vertical-align:top;
+                    }
+.lien_menu	    {
+		    text-decoration: none;
+		    font-family:"Arial","Geneva",sans-serif;
+	  	    font-size:12px;
+		    color:#0262DD;
+		    margin-top: 7px;
+		    margin-left: 15px;
+		    }
+.lien_menu a  	    {
+		    text-decoration: none;
+		    font-family:"Arial","Geneva",sans-serif;
+	  	    font-size:12px;
+		    color: #0262DD;
+		    margin-top: 7px;
+		    margin-left: 15px;
+        	    }
+.lien_menu a:hover  {
+		    text-decoration: underline;
+		    font-family:"Arial","Geneva",sans-serif;
+	  	    font-size:12px;
+		    color: #0262DD;
+		    margin-top: 7px;
+		    margin-left: 15px;
+        	    }
+#backgroundbleu	    {
+		    background-image:url('../img/fondbleu.jpg');
+                    width: 310px;
+                    height: 104px;
+                    float: left;
+                    margin-left: 40px;
+                    }
+.aucunarticle       {
+		    text-decoration: none;
+		    font-family:"Arial","Geneva",sans-serif;
+	  	    font-size:12px;
+		    color: #000000;
+                    text-indent: 10px;
+                    background-color:#EEEEEE;
+                    width: 630px;
+        	    }
+.lien_admin         {
+                    text-decoration: none;
+                    font-family:"Arial","Geneva",sans-serif;
+                    font-size:12px;
+                    color:#0262DD;
+                    }
+.lien_admin a  	    {
+		    text-decoration: none;
+		    font-family:"Arial","Geneva",sans-serif;
+	  	    font-size:12px;
+		    color: #0262DD;
+        	    }
+.lien_admin a:hover {
+		    text-decoration: underline;
+		    font-family:"Arial","Geneva",sans-serif;
+	  	    font-size:12px;
+		    color: #0262DD;
+        	    }
+.titreadmin         {
+        	    font-weight:bold;
+		    font-family:"Arial","Geneva",sans-serif;
+ 		    font-size: 12px;
+                    float: left;
+                    margin-top: 0px;
+                    margin-left:3px;
+		    }
+.lien 		    {
+		    text-decoration: none;
+		    font-family:"Arial","Geneva",sans-serif;
+	  	    font-size:12px;
+		    color:#0262DD;
+		    }
+.lien a  	    {
+		    text-decoration: none;
+		    font-family:"Arial","Geneva",sans-serif;
+	  	    font-size:12px;
+		    color: #0262DD;
+        	    }
+.lien a:hover       {
+		    text-decoration: underline;
+		    font-family:"Arial","Geneva",sans-serif;
+	  	    font-size:12px;
+		    color: #0262DD;
+        	    }
+.titrearticle       {
+        	    font-weight:bold;
+		    font-family:"Arial","Geneva",sans-serif;
+ 		    font-size: 15pt;
+                    margin-top:5px;
+                    margin-left:3px;
+		    }
+.contenuarticle     {
+		    font-family:"Arial","Geneva",sans-serif;
+ 		    font-size: 10pt;
+                    margin-left:3px;
+                    text-indent: 20px;
+		    }
+#index              {
+                    width: 980px;
+                    margin:auto;
+                    margin-top:5px;
+                    margin-bottom:10px;
+                    }
+#en_tete            {
+                    width: 980px;
+                    height: 133px;
+                    background-image: url("../img/img1.png");
+                    background-repeat: no-repeat;
+                    margin-bottom: 5px;
+                    margin:auto;
+                    }
+.block              {
+                    border: 3px solid #E6E6E6;
+                    width: 805px;
+                    float: left; 
+                    }
+#big                {
+                    width: 805px;
+                    float: left; 
+                    }
+.ajoute_commentaire {
+                    text-align : center;
+                    vertical-align: bottom;
+                    }
+#pub                {
+                    margin:auto;
+                    width: 165px;
+                    vertical-align:top;
+                    float: right; 
+                    }
+.sanslescoms        {
+                    margin:auto;
+                    width: 805px;
+                    float: left; 
+                    }
+#bodycom            {
+                    width: 600px;
+                    margin:auto;
+                    }
+#commentaire        {
+                    margin:auto;
+                    width: 440px;
+                    float: left; 
+                    }
+#tableausmiley      {
+                    width: 103px;
+                    height: 122px;
+                    margin:auto;
+                    float: right; 
+                    margin-top: 35px;
+                    background-image:url('../img/backsmile.jpg');
+                    background-repeat: no-repeat;
+                    padding-top: 3px;
+                    padding-left: 0px ;
+                    }
+.normale            {
+		    font-family:"Arial","Geneva",sans-serif;
+ 		    font-size: 12px;
+                    margin-left:3px;
+                    margin-bottom:0px;
+                    }
+#index_admin        {
+                    width: 980px;
+                    margin:auto;
+                    margin-top:10px;
+                    margin-bottom:10px;
+                    }
+.block_admin        {
+                    border: 3px solid #E6E6E6;
+                    width: 605px;
+                    float: left; 
+                    height: 68px;
+                    }
+#big_admin          {
+                    width: 605px;
+                    float: left; 
+                    }
+.supprmodif         {
+                    float: right; 
+                    margin-right:3px;
+                    }
+.tout               {
+                    float: left; 
+                    height: 68px;
+                    }
+.left               {
+                    float: left; 
+                    height: 68px;
+                    width: 500px;
+                    }
+img                 {
+	            border: none; 
+                    }
+.img_index          {
+	            border: none; 
+                    float: left; 
+                    margin-left: 4px;
+                    margin-right: 4px;
+                    }
+.ajoute_photo       {
+		    text-decoration: none;
+		    font-family:"Arial","Geneva",sans-serif;
+	  	    font-size:12px;
+		    color:#0262DD;
+		    }
+.ajoute_photo a     {
+		    text-decoration: none;
+		    font-family:"Arial","Geneva",sans-serif;
+	  	    font-size:12px;
+		    color: #0262DD;
+        	    }
+.ajoute_photo a:hover{
+		    text-decoration: underline;
+		    font-family:"Arial","Geneva",sans-serif;
+	  	    font-size:12px;
+		    color: #0262DD;
+        	    }
+.block_admin_bas   {
+                    border: 3px solid #E6E6E6;
+                    width: 605px;
+                    float: left; 
+                    }
