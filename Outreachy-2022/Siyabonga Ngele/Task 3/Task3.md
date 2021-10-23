@@ -4,9 +4,9 @@ The objective of this task is to design the data collection system that will be 
 This will be achieved by considering local and context specificities (Language, access to specific resources etc..).
 
 For this task, I choose google forms. For the following reasons:
--It allows for easy online availability
--It allows for easy translation to languages like French or the other 13 African languages.
--Due to a lack of connectivity / technological devices google form can be saved to pdf form and used as printed form.
+- It allows for easy online availability
+- It allows for easy translation to languages like French or the other 13 African languages.
+- Due to a lack of connectivity / technological devices google form can be saved to pdf form and used as printed form.
 
 [Typhoid Diagnostics Form](https://docs.google.com/forms/d/e/1FAIpQLSeNFwChuyRmQIObgJeJ3Agrt4zVAyBpvrSODUP4fMWuWYfcqQ/viewform?usp=pp_url)
 
