@@ -1,0 +1,10 @@
+ ienvenue sur le gestionnaire de BLOG :
+
+ Installation :
+ Inscrire vos paramétres de connection dans le fichier admin/connection.php
+ Insérer le fichier mysql.sql dans votre base de donnée
+ Par défault, pour accéder à la partie administration, vous avec comme pseudo : admin et comme mot de passe : admin
+ Pour modifier le titre de votre site, aller dans admin et modifier le contenue de titre.txt
+
+ J'ai rajouté un petit script qui permet de supprimer les frames de pub chez les hebergeurs gratuit comme Xdir et un qui supprime les pop up
+ Sinon, je vous laisse découvrir le blog et n'hésiter pas à laisser vos commentaires.
