@@ -1,0 +1,78 @@
+<main class="d-flex align-items-center min-vh-100 py-3 py-md-0">
+  <div class="container">
+    <div class="card login-card">
+      <div class="row no-gutters">
+        <div class="col-md-5">
+          <img src="assets/img/login.jpg" alt="login" class="login-card-img" />
+        </div>
+        <div class="col-md-7">
+          <div class="card-body">
+            <div
+              class="brand-wrapper pointer"
+              routerLink="/"
+              title="Go back to home"
+            >
+              <img src="assets/img/logo-2.png" alt="logo" width="200" height="auto" />
+            </div>
+            <p class="login-card-description">Log into your account</p>
+            <form
+              id="loginForm"
+              [formGroup]="loginForm"
+              (ngSubmit)="onSubmitLogin()"
+            >
+              <div class="form-group">
+                <label for="email" class="sr-only">Username</label>
+                <input
+                  type="email"
+                  class="form-control"
+                  id="username"
+                  formControlName="username"
+                  required
+                  placeholder="Username or email"
+                />
+              </div>
+              <div class="form-group mb-4">
+                <label for="password" class="sr-only">Password</label>
+                <input
+                  type="password"
+                  class="form-control"
+                  id="loginPassword"
+                  formControlName="password"
+                  required
+                  placeholder="Password"
+                />
+              </div>
+              <button
+                name="login"
+                [disabled]="!loginFormIsValid() || loading"
+                id="login"
+                type="submit"
+                class="btn btn-block login-btn mb-4 pointer"
+              >
+                Login &nbsp;
+                <div
+                  class="spinner-border float-right"
+                  role="status"
+                  *ngIf="loading"
+                >
+                  <span class="sr-only">Loading...</span>
+                </div>
+              </button>
+            </form>
+            <div class="form-row">
+              <div class="col pull-left">
+                <a routerLink="/password-reset" class="forgot-password-link"
+                  >Forgot password?</a
+                >
+              </div>
+              <div class="col pull-right">
+                Don't have an account? &nbsp;
+                <a routerLink="/signup" class="text-reset">Register here</a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</main>

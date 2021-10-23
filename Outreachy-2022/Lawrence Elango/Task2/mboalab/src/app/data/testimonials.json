@@ -1,0 +1,38 @@
+[
+    {
+        "id":1,
+        "user":[1],
+        "comment":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis at est id leo luctus gravida a in ipsum.",
+        "style":"color-1s"
+    },
+    {
+        "id":2,
+        "user":[2],
+        "comment":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis at est id leo luctus gravida a in ipsum.",
+        "style":"color-2"
+    },
+    {
+        "id":3,
+        "user":[3],
+        "comment":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis at est id leo luctus gravida a in ipsum.",
+        "style":"color-3"
+    },
+    {
+        "id":4,
+        "user":[4],
+        "comment":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis at est id leo luctus gravida a in ipsum.",
+        "style":"color-1s"
+    },
+    {
+        "id":5,
+        "user":[5],
+        "comment":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis at est id leo luctus gravida a in ipsum.",
+        "style":"color-2"
+    },
+    {
+        "id":6,
+        "user":[6],
+        "comment":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis at est id leo luctus gravida a in ipsum.",
+        "style":"color-3"
+    }
+]

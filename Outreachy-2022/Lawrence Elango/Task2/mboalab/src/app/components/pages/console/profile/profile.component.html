@@ -1,0 +1,194 @@
+<link
+  href="https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css"
+  rel="stylesheet"
+/>
+<section id="content" class="container group">
+  <!-- Begin .page-heading -->
+  <div class="page-heading">
+    <div *ngIf="user && userProfile">
+      <app-profile-header
+        [user]="user"
+        [userProfile]="userProfile"
+        [preview]="preview"
+        [default]="default"
+      ></app-profile-header>
+    </div>
+  </div>
+
+  <div class="row">
+    <div class="col-md-4">
+      <div class="panel">
+        <div class="panel-heading">
+          <span class="panel-icon">
+            <i class="fa fa-star"></i>
+          </span>
+          <span class="panel-title"> Statistics</span>
+        </div>
+        <div class="panel-body pn">
+          <table class="table mbn tc-icon-1 tc-med-2 tc-bold-last">
+            <thead>
+              <tr class="hidden">
+                <th class="mw30">#</th>
+                <th>Type</th>
+                <th>Count</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td>
+                  <span class="fa fa-desktop text-warning"></span>
+                </td>
+                <td>Posts</td>
+                <td><i class="fa fa-caret-up text-info pr10"></i>3</td>
+              </tr>
+              <tr>
+                <td>
+                  <span class="fa fa-microphone text-primary"></span>
+                </td>
+                <td>Categories</td>
+                <td><i class="fa fa-caret-down text-danger pr10"></i>3</td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+      </div>
+      <div class="panel">
+        <div class="panel-heading">
+          <span class="panel-icon">
+            <i class="fa fa-trophy"></i>
+          </span>
+          <span class="panel-title"> Level</span>
+        </div>
+        <div class="panel-body pb5">
+          <i class="fa fa-star"></i> &nbsp;<i class="fa fa-star"></i> &nbsp;
+        </div>
+      </div>
+      <div class="panel">
+        <button
+          name="login"
+          id="logout"
+          class="btn btn-block login-btn mb-4 logout"
+          (click)="logout()"
+          value="Logout"
+        >
+          Logout &nbsp;
+          <div class="spinner-border float-right" role="status" *ngIf="loading">
+            <span class="sr-only">Loading...</span>
+          </div>
+        </button>
+      </div>
+    </div>
+    <div class="col-md-8">
+      <div class="tab-block">
+        <ul class="nav nav-tabs" role="tablist">
+          <li
+            [ngClass]="
+              currentTab == 'tab1'
+                ? 'active nav-item pointer'
+                : 'nav-item pointer'
+            "
+          >
+            <a
+              class="nav-link"
+              data-toggle="tab"
+              role="tab"
+              (click)="goToTab('tab1')"
+              >Posts</a
+            >
+          </li>
+          <li
+            [ngClass]="
+              currentTab == 'tab2'
+                ? 'active nav-item pointer'
+                : 'nav-item pointer'
+            "
+          >
+            <a
+              class="nav-link"
+              data-toggle="tab"
+              role="tab"
+              (click)="goToTab('tab2')"
+              >Categories</a
+            >
+          </li>
+          <li
+            [ngClass]="
+              currentTab == 'tab3'
+                ? 'active nav-item pointer'
+                : 'nav-item pointer'
+            "
+          >
+            <a
+              class="nav-link"
+              data-toggle="tab"
+              role="tab"
+              (click)="goToTab('tab3')"
+              >Subscribers</a
+            >
+          </li>
+          <li
+            [ngClass]="
+              currentTab == 'tab4'
+                ? 'active nav-item pointer'
+                : 'nav-item pointer'
+            "
+          >
+            <a data-toggle="tab" role="tab" (click)="goToTab('tab4')"
+              >Settings</a
+            >
+          </li>
+        </ul>
+        <!-- Tab panes -->
+        <div class="tab-content">
+          <div
+            id="tabs-1"
+            role="tabpanel"
+            [ngClass]="currentTab == 'tab1' ? 'tab-pane active' : 'tab-pane'"
+          >
+            <app-posts></app-posts>
+          </div>
+          <div
+            id="tabs-2"
+            role="tabpanel"
+            [ngClass]="currentTab == 'tab2' ? 'tab-pane active' : 'tab-pane'"
+          >
+            <app-categories></app-categories>
+          </div>
+          <div
+            id="tabs-3"
+            role="tabpanel"
+            [ngClass]="currentTab == 'tab3' ? 'tab-pane active' : 'tab-pane'"
+          >
+            <app-subscribers></app-subscribers>
+          </div>
+          <div
+            id="tabs-4"
+            role="tabpanel"
+            [ngClass]="currentTab == 'tab4' ? 'tab-pane active' : 'tab-pane'"
+          >
+            <div
+              *ngIf="user && userProfile && countries && languages && timezones"
+            >
+              <app-settings
+                [user]="user"
+                [userProfile]="userProfile"
+                [countries]="countries"
+                [languages]="languages"
+                [timezones]="timezones"
+              ></app-settings>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<ngx-loading
+  [show]="loadingData"
+  [config]="{
+    backdropBorderRadius: '3px',
+    fullScreenBackdrop: true,
+    animationType: animationType
+  }"
+></ngx-loading>

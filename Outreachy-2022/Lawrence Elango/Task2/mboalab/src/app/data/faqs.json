@@ -1,0 +1,32 @@
+[
+    {
+        "id":1,
+        "title":"What is MboaLabs?",
+        "text":"MboaLab is an open and collaborative space located in Yaoundé, Cameroon. The aim of MboaLab is to catalyse sustainable local development and improve people’s living conditions through open science.."
+    },
+    {
+        "id":2,
+        "title":"What does the name Mboa mean?",
+        "text":"The word “Mboa” has different meanings in native Cameroonian languages: in Matakam, it means “new”; in Ewondo, it means “unique”; in Duala, it means “village”. Literally translated, MboaLab is a unifying village dedicated to creation; even better, it is a laboratory for social innovation, community education, collaboration and mediation at the service of the community."
+    },
+    {
+        "id":3,
+        "title":"What's MboaLab aimed at achieving?",
+        "text":"The aim of MboaLab is to catalyse sustainable local development and improve people’s living conditions through open science"
+    },
+    {
+        "id":4,
+        "title":"Any visions?",
+        "text":"We advocate for the character of a local development, which is conferred by the imperative to have it emerge from the communities themselves; this is what ensures its relevance and sustainability. In other words, sustainable local development needs to be thought by and for the members of a given community. To do so, it is important to break the unenthusiastic spirit that exists among many Cameroonians, by training healthy, educated citizens capable of critical thinking on issues related to their immediate environment. By choosing education and health as priority axes, associated with its role as a mediator between Science-Technologies-Societies; we can say clearly that Mboalab could be a powerful catalyst for local sustainable development.."
+    },
+    {
+        "id":5,
+        "title":"What is the role of MboaLab Biotech?",
+        "text":"Mboalab Biotech is a node of the Open Bioeconomy Lab hosted in MboaLab space. Established in 2018, the lab currently runs a number of projects amongst which the open enzyme manufacturing project. At its core, our work in Mboalab Biotech is focused on making biotechnology research and tools more accessible to labs around the world through scientific research and development and local production of reagents. We are committed to the development of open educational resources as well as simple and cost-effective protocols that can be applied in resource-limited laboratories. We also provide scientific research projects targeting local health issues, internships opportunities, and training sessions to young local scientists in order to equip them with molecular biology and DIY- Biology skills, and prepare them for employment."
+    },
+    {
+        "id":6,
+        "title":"How do you use AI to help your mission?",
+        "text":"We study models and try to come up with the best methods through which illnesses can be diagnosed."
+    }
+]

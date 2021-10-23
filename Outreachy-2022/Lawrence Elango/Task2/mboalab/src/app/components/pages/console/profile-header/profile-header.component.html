@@ -1,0 +1,42 @@
+<div class="media clearfix row">
+  <div class="media-left pr30 col-md-4 text-center">
+    <img
+      class="media-object mw150 photo"
+      src="{{ preview ? preview : default }}"
+      alt="..."
+    />
+    <div
+      class="profile-thumb-edit custom-file bg-primary text-white pointer"
+      data-toggle="tooltip"
+      title="Change Profile Picture"
+    >
+      <i class="fas fa-camera position-absolute"></i>
+      <input
+        accept="image/png,image/jpg,image/jpeg"
+        type="file"
+        class="custom-file-input"
+        id="customFile"
+        (change)="fileChanged($event)"
+      />
+    </div>
+  </div>
+  <div class="media-body va-m col-md-8" *ngIf="user && userProfile">
+    <h2 class="media-heading">
+      Hi, {{ user.firstname }} {{ user.lastname }}
+    </h2>
+    <p>
+      {{ user.username }} | {{ user.email }} | Member since
+      {{ _core.getDate(user.createdat) }}
+    </p>
+    <hr />
+    <h4>Bio</h4>
+    <p class="lead bio">
+      {{ userProfile.bio ? userProfile.bio : "No bio set" }}
+    </p>
+  </div>
+</div>
+
+<ngx-loading
+  [show]="loadingData"
+  [config]="{ backdropBorderRadius: '3px', fullScreenBackdrop: true }"
+></ngx-loading>

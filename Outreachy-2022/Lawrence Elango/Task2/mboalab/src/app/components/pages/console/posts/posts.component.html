@@ -1,0 +1,129 @@
+<div class="container">
+  <div class="row">
+    <div class="col pull-left">
+      <h4>Posts</h4>
+    </div>
+    <div class="col text-right">
+      <span
+        ><a
+          class="btn btn-success btn-sm addButton"
+          (click)="openPostModal('addPost', null)"
+        >
+          <i class="fa fa-plus"></i> </a
+      ></span>
+    </div>
+  </div>
+
+  <hr />
+  <div class="row clearfix">
+    <dx-data-grid
+      #postsContainer
+      id="postsContainer"
+      [dataSource]="posts"
+      [columnAutoWidth]="true"
+      [showBorders]="false"
+      [showRowLines]="true"
+      [showColumnLines]="false"
+      [allowColumnReordering]="true"
+      [wordWrapEnabled]="true"
+      [hoverStateEnabled]="true"
+      (onFileSaving)="_core.onFileSaving($event, 'posts')"
+    >
+      <dxo-column-chooser [enabled]="true"></dxo-column-chooser>
+      <dxo-paging [enabled]="true" [pageSize]="10"></dxo-paging>
+      <dxo-pager
+        [showPageSizeSelector]="true"
+        [allowedPageSizes]="[5, 10, 20, 30]"
+        [showInfo]="true"
+      ></dxo-pager>
+      <dxo-search-panel
+        [visible]="true"
+        [width]="240"
+        [placeholder]="'Search...'"
+      ></dxo-search-panel>
+
+      <!-- Columns -->
+      <dxi-column dataField="title" [caption]="'Title'"></dxi-column>
+      <dxi-column
+        dataField="postimage"
+        [caption]="'Image'"
+        cellTemplate="postImageTemplate"
+      ></dxi-column>
+      <dxi-column
+        cellTemplate="createdAtTemplate"
+        [caption]="'Date'"
+      >
+      </dxi-column>
+      <dxi-column cellTemplate="actionsTemplate" [caption]="" alignment="right">
+      </dxi-column>
+
+      <div *dxTemplate="let cell of 'postImageTemplate'">
+        <span *ngIf="!this._core.isEmptyOrNull(cell.data.postimage)">
+          <img
+            class="photo-grid"
+            src="{{ cell.data.postimage }}"
+            alt=""
+            width="60"
+          />
+        </span>
+        <span *ngIf="this._core.isEmptyOrNull(cell.data.postimage)">
+          No image set
+        </span>
+      </div>
+
+      <div *dxTemplate="let cell of 'createdAtTemplate'">
+        <span>
+          {{ getDate(cell.data.createdat) }}
+        </span>
+      </div>
+
+      <div *dxTemplate="let cell of 'actionsTemplate'">
+        <div class="mainActions">
+          <ul>
+            <li>
+              <i
+                class="fa fa-sm fa-edit blue"
+                [title]="'Edit'"
+                (click)="openPostModal('updatePost', cell.data)"
+              ></i>
+            </li>
+            <li>
+              <i
+                class="fa fa-sm fa-trash red"
+                [title]="'Delete category'"
+                (click)="openPostModal('deletePost', cell.data)"
+              ></i>
+            </li>
+          </ul>
+        </div>
+      </div>
+
+      <dxo-export
+        [enabled]="true"
+        fileName="posts"
+        [allowExportSelectedData]="false"
+        [customizeExcelCell]="customizeExcelCell"
+      ></dxo-export>
+      <dxo-column-chooser [enabled]="true"></dxo-column-chooser>
+    </dx-data-grid>
+  </div>
+</div>
+
+<app-modal-post
+  #postModal
+  [categories]="categories"
+  [post]="thePost"
+  [origin]="origin"
+  [action]="postModalAction"
+  (postModalClosed)="onPostModalClosed()"
+>
+</app-modal-post>
+
+<ngx-loading
+  [show]="loadingData"
+  [config]="{
+    backdropBorderRadius: '3px',
+    fullScreenBackdrop: true,
+    animationType: animationType
+  }"
+></ngx-loading>

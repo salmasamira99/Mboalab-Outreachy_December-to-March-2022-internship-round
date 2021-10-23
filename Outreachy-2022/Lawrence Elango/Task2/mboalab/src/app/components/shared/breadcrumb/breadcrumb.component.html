@@ -1,0 +1,13 @@
+<breadcrumb #parent>
+    <section class="page-title-area">
+        <ng-template ngFor let-route [ngForOf]="parent.breadcrumbs">
+            <div class="container">
+                <h2 class="title">{{ route.displayName }}</h2>
+                <ul class="breadcrumb-nav">
+                    <li><a routerLink="/">Home </a></li>
+                    <li class="active">{{ route.displayName }}</li>
+                </ul>
+            </div>
+        </ng-template>
+    </section>
+</breadcrumb>

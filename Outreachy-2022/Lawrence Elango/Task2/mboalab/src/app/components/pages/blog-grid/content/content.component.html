@@ -1,0 +1,36 @@
+<section class="blog-area section-gap">
+    <div class="container">
+        <div class="blog-grid-items row justify-content-center">
+            <!-- Data -->
+            <div class="col-lg-4 col-md-6 col-sm-8" *ngFor="let post of posts | paginate: { itemsPerPage: 6, currentPage: page }">
+                <div class="single-blog-grid mb-30">
+                    <img [src]="post.postimage" [alt]="post.title">
+                    <a class="cat" routerLink="/blog/cat/{{post._id}}">{{post.categoryname}}</a>
+                    <div class="blog-grid-overlay">
+                        <h5 class="title"><a routerLink="/blog/{{post.slug}}">{{post.title | slice:0:40}}</a></h5>
+                        <ul class="post-meta">
+                            <li><a routerLink="/blog/{{post.slug}}"><i class="fal fa-calendar-alt"></i>&nbsp; <span> {{getDate(post.createdat)}}</span></a></li>
+                            <li><a routerLink="/blog/{{post.slug}}"><i class="fal fa-heart"></i></a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <!-- Data -->
+        </div>
+        <div class="pagination justify-content-center mt-50">
+            <pagination-controls (pageChange)="page = $event" responsive="true"
+            previousLabel="<"
+            nextLabel=">"></pagination-controls>
+        </div>
+    </div>
+</section>
+
+
+<ngx-loading
+  [show]="loadingData"
+  [config]="{
+    backdropBorderRadius: '3px',
+    fullScreenBackdrop: true,
+    animationType: animationType
+  }"
+></ngx-loading>

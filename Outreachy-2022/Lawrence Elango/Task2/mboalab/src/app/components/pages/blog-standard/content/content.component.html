@@ -1,0 +1,49 @@
+<section class="blog-area section-gap">
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="col-lg-8">
+                <div class="blog-standard">
+                    <!-- Data -->
+                    <div class="single-blog-standard mb-30" *ngFor="let item of blogpost | paginate: { itemsPerPage: 3, currentPage: page }">
+                        <div class="blog-standard-thumb">
+                            <img [src]="item.gridimg" [alt]="item.title" class="w-100">
+                            <a class="video-popup popup-youtube" href="{{item.video}}" *ngIf="item.format === 'video' && item.video">
+                                <i class="fas fa-play"></i>
+                            </a>
+                        </div>
+                        <div class="blog-standard-content">
+                            <a routerLink="/blog/cat/{{cat.id}}" class="cat" *ngFor="let cat of getCategory(item.category)">
+                                {{cat.title}}
+                            </a>
+                            <h2 class="title">{{item.title}}</h2>
+                            <ul class="post-meta">
+                                <li><i class="fal fa-eye"></i> {{item.views}} Views</li>
+                                <li><i class="fal fa-comments"></i> {{item.reviews.length}} Comments</li>
+                                <li><i class="fal fa-calendar-alt"></i> {{item.postdate}}</li>
+                            </ul>
+                            <p>{{item.shortdesc}}</p>
+                            <div class="blog-standard-footer">
+                                <div class="footer-left" *ngFor="let author of getAuthor(item.author)">
+                                    <img [src]="author.img" [alt]="author.name">
+                                    <a routerLink="/blog/author/{{author.id}}"><span>by</span> {{author.name}}</a>
+                                </div>
+                                <div class="footer-right">
+                                    <a routerLink="/blog-details/{{item.id}}"><i class="fal fa-arrow-right"></i>Read More</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- Data -->
+                </div>
+                <div class="pagination justify-content-center mt-50">
+                    <pagination-controls (pageChange)="page = $event" responsive="true"
+                    previousLabel="<"
+                    nextLabel=">"></pagination-controls>
+                </div>
+            </div>
+            <div class="col-lg-4 col-md-8 col-sm-10">
+                <app-blogsidebar></app-blogsidebar>
+            </div>
+        </div>
+    </div>
+</section>
