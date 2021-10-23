@@ -1,6 +1,8 @@
 import { NgModule } from '@angular/core';
 import { CommonModule } from '@angular/common';
 import { NgMultiSelectDropDownModule } from "ng-multiselect-dropdown";
+import { CKEditorModule } from 'ng2-ckeditor';
+import { NgxLoadingModule, ngxLoadingAnimationTypes } from "ngx-loading";
 import { DxDataGridModule, DxTooltipModule, DxTemplateModule } from "devextreme-angular";
 import { ConsoleRoutingModule } from './console-routing.module';
 import { ConsoleComponent } from './console.component';
@@ -34,10 +36,20 @@ import { SubscribersComponent } from './subscribers/subscribers.component';
     ConsoleRoutingModule,
     SharedModule,
     FormsModule,
+    CKEditorModule,
     NgbDropdownModule,
     NgbButtonsModule,
     NgbAlertModule,
     NgbDatepickerModule,
+    NgxLoadingModule.forRoot({
+      animationType: ngxLoadingAnimationTypes.wanderingCubes,
+      backdropBackgroundColour: 'rgba(0,0,0,0.4)',
+      backdropBorderRadius: '4px',
+      primaryColour: '#ffffff',
+      secondaryColour: '#ffffff',
+      tertiaryColour: '#ffffff',
+      fullScreenBackdrop: true
+    }),
     NgbModalModule,
     NgbTooltipModule,
     NgbPopoverModule,

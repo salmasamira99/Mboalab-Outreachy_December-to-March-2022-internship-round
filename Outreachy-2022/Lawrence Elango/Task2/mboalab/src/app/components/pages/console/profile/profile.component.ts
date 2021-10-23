@@ -25,6 +25,7 @@ export class ProfileComponent implements OnInit {
   public timezones: any;
   public loadingData = false;
   public loading = false;
+  public animationType = 'wanderingCubes';
   public action: string;
   public menu: any;
   public currentTab = "tab1";
@@ -161,17 +162,18 @@ export class ProfileComponent implements OnInit {
     await this.profilesService
       .getUserProfile()
       .then(user => {
-        this.userProfile = this._core.normalizeKeys(user);
-        if (this.userProfile.avatar) {
-          this.preview = this.userProfile.avatar;
+        if (user.avatar) {
+          this.preview = user.avatar;
         } else {
           this.preview = null;
         }
+
+        this.userProfile = this._core.normalizeKeys(user);
         this.loadingData = false;
       })
       .catch(e => {
         this.loadingData = false;
-        //this._core.handleError(e);
+        this._core.handleError(e);
       });
 
   }

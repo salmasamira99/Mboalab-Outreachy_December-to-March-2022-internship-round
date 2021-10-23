@@ -118,3 +118,12 @@
   (postModalClosed)="onPostModalClosed()"
 >
 </app-modal-post>
+
+<ngx-loading
+  [show]="loadingData"
+  [config]="{
+    backdropBorderRadius: '3px',
+    fullScreenBackdrop: true,
+    animationType: animationType
+  }"
+></ngx-loading>

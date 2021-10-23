@@ -33,8 +33,10 @@ export class ContentComponent implements AfterContentInit, OnInit {
   public relatedPosts: any;
   public relatedTags: any;
   public postPerPage: any;
+
   public loadingData = false;
   public loading = false;
+  public animationType = 'wanderingCubes';
 
   public categories: any = [];
   public categoryCount = 0;

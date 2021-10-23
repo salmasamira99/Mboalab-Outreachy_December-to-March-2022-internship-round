@@ -3,7 +3,6 @@ import { CoreService } from '../../../../core/core.service';
 import { NgbModal, ModalDismissReasons } from '@ng-bootstrap/ng-bootstrap';
 import { FormBuilder, Validators, FormGroup, FormArray } from '@angular/forms';
 import { PostsService } from '../../../../services/posts.service';
-
 @Component({
   selector: 'app-modal-post',
   templateUrl: './modal-post.component.html',
@@ -75,10 +74,10 @@ export class ModalPostComponent implements OnInit {
     const timer = setTimeout(() => {
       if (this.action == 'addPost') {
         this.modalTitle = 'Add post';
-        this.modalReference = this.modalService.open(this.postModal, this.core.ngbModalOptions);
+        this.modalReference = this.modalService.open(this.postModal, this.core.ngbModalOptionsLg);
       } else if (this.action == 'updatePost') {
         this.modalTitle = 'Update post';
-        this.modalReference = this.modalService.open(this.postModal, this.core.ngbModalOptions);
+        this.modalReference = this.modalService.open(this.postModal, this.core.ngbModalOptionsLg);
         if (this.post)
           this.populatePostForm();
       } else if (this.action == 'deletePost') {
@@ -118,7 +117,7 @@ export class ModalPostComponent implements OnInit {
   populatePostForm() {
 
     if (!this.core.isEmptyOrNull(this.post.postimage)) {
-      this.preview = this.post.postimage ;
+      this.preview = this.post.postimage;
     }
 
     if (this.post.category) {
@@ -233,7 +232,13 @@ export class ModalPostComponent implements OnInit {
     this.postModalClosed.emit();
     if (this.action == 'addPost' || this.action == 'updatePost') {
       this.resetpostForm();
+      this.resetValues();
     }
+  }
+
+  resetValues() {
+    this.preview = null;
+    this.post = null;
   }
 
   fileChanged($event: any) {

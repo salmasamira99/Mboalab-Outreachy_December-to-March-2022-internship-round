@@ -19,6 +19,7 @@ export class PostsComponent implements OnInit {
 
   public loadingData = false;
   public loading = false;
+  public animationType = 'wanderingCubes';
   public posts: any = [];
   public PostCount = 0;
   public postFile: any;
