@@ -66,6 +66,7 @@ export class SettingsComponent implements OnInit {
   public unreadNotifications: any = [];
   public loadingData = false;
   public loading = false;
+  public animationType = 'wanderingCubes';
   public showSaveButton = false;
 
   public file: any;
@@ -113,6 +114,8 @@ export class SettingsComponent implements OnInit {
     this.menu = this._core.pageMenu;
     this.initProfileForm();
     this.redirectToLogin();
+    this.populateProfileForm();
+    this.populateAddressForm();
     //this.getUnreadNotifications();
   }
 
@@ -311,13 +314,12 @@ export class SettingsComponent implements OnInit {
         } else {
           this.preview = null;
         }
-
         this.populateAddressForm();
         this.loadingData = false;
       })
       .catch(e => {
         this.loadingData = false;
-        //this._core.handleError(e);
+        this._core.handleError(e);
       });
 
   }
@@ -332,8 +334,6 @@ export class SettingsComponent implements OnInit {
           return !notification.read;
         });
         this.unreadNotificationsCount = notifications.count;
-        this.populateProfileForm();
-        this.populateAddressForm();
         this.loadingData = false;
       })
       .catch(e => {

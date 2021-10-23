@@ -5,12 +5,14 @@
 <section id="content" class="container group">
   <!-- Begin .page-heading -->
   <div class="page-heading">
-    <app-profile-header
-      [user]="user"
-      [userProfile]="userProfile"
-      [preview]="preview"
-      [default]="default"
-    ></app-profile-header>
+    <div *ngIf="user && userProfile">
+      <app-profile-header
+        [user]="user"
+        [userProfile]="userProfile"
+        [preview]="preview"
+        [default]="default"
+      ></app-profile-header>
+    </div>
   </div>
 
   <div class="row">
@@ -164,16 +166,29 @@
             role="tabpanel"
             [ngClass]="currentTab == 'tab4' ? 'tab-pane active' : 'tab-pane'"
           >
-            <app-settings
-              [user]="user"
-              [userProfile]="userProfile"
-              [countries]="countries"
-              [languages]="languages"
-              [timezones]="timezones"
-            ></app-settings>
+            <div
+              *ngIf="user && userProfile && countries && languages && timezones"
+            >
+              <app-settings
+                [user]="user"
+                [userProfile]="userProfile"
+                [countries]="countries"
+                [languages]="languages"
+                [timezones]="timezones"
+              ></app-settings>
+            </div>
           </div>
         </div>
       </div>
     </div>
   </div>
 </section>
+
+<ngx-loading
+  [show]="loadingData"
+  [config]="{
+    backdropBorderRadius: '3px',
+    fullScreenBackdrop: true,
+    animationType: animationType
+  }"
+></ngx-loading>
