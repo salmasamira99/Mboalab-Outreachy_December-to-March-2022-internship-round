@@ -11,6 +11,7 @@ i have created an acronym for this project, __MADOT__. It is short, easy to reca
 
 In the logo, the O is symbolized to represent the presence of many organisms, it also acts as a reference to the fact that the project can be implemented on other diseases as well, a fact reiterated by the logo slogan as well which places diagnostics as a broad term and not particular to typhoid fever alone.
 below is my improved logo design:
-![Logo](https://user-images.githubusercontent.com/85277356/138439387-e7c52df2-770e-4ede-b72e-dbe3f646ff29.png)
+
+![Logonew](https://user-images.githubusercontent.com/85277356/138808905-6be3c8a8-0f39-4ddd-b091-4e4cfb56786f.png)
 
 Thank you!
