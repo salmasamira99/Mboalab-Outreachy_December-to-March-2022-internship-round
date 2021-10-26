@@ -1,0 +1,31 @@
+Task 3: Design a data collection tool to record symptoms data
+##Project Goals, Relevance and Objectives
+
+The goal of this project is to design the appropiate data collection tool that will be used for acquiring human clinical data for the diagnosis of typhoid fever and more importantly,
+to establish the severity level of the disease. 
+The project is focused on integrating AI tools and software tools with the human clinical data obtained from the data collection tools.
+
+ --Context--
+ Typhoid is one of the infectious human diseases in Cameroon and Africa. Outbreaks of typhoid fever caused by Salmonella typhi remains a serious health problem worldwide. 
+ Hence, there is need to accurately diagnose this disease. However, there are limitations in using some of the conventional method of diagnosis. The limitations are as follows:
+ cost-intensive,
+ -technically difficult,
+ -lack of standardized methods of assay, 
+ -misinterpretation of results.
+ 
+ Therefore, there is need to use data collection systems that will be used to collect typhoid clinical data in order to confirm diagonosis and severity level of the disease.
+ 
+ ##Data collection tools
+ 
+   ###Characteristics of the Data collection tools
+   -Selection of the most fitting Data collection tools
+   -Collection of symptoms and severity level of the disease
+ 
+   ###Most fitting Data collection tools
+   The preffered data collection tool for this project is Google Forms.
+   The languages of the participants will be taken into consideration by using google translate to translate the form from english to the participants language. 
+ 
+   ###Design collection tool link
+  Since, Cameroon's official languages are English and French, the Google form links for the tool will be listed below:
+  The Google Form link in english [click here] (https://docs.google.com/forms/d/18s-nl2Z2hbStDZmOtfigWR0hY51wutmQd-wqraWHqI0/edit?vc=0&c=0&w=1&flr=0)
+  The Google Form translation in french [click here] (https://docs.google.com/forms/d/18s-nl2Z2hbStDZmOtfigWR0hY51wutmQd-wqraWHqI0/edit?vc=0&c=0&w=1&flr=0)
