@@ -1,0 +1,67 @@
+**Improve diagnostics of typhoid through Open Science: An Artificial Intelligence-based technique**
+
+**Mboalab, Outreachy and Why Open Source Science?**
+
+Outreachy is a paid, remote internship program that accept applications from everyone around the world. Outreachy help newcomers to free software and open source make their first contributions. Interns work with experienced mentors from open source communities.
+
+MboaLab which is a unifying village dedicated to creation; in a better form is a laboratory for social innovation, community education, collaboration and mediation at the service of the community.
+
+Mboalab, an open and collaborative space, in a bid to achieve more, are proposing implementing this project in an open and collaborative way using open science. As an open and collaborative laboratory, partnering with Outreachy means the following:
+
+1. Having more people work with us, learning and yet creating amazing software products. This is possible since the source code is available for all to read which means that a large number of contributors can test and improve this project.
+2. Having to work with the smartest team members. With an open space and bigger community, this project would scale up and be like a buzzing beehive with so many pull requests made globally.
+3. We would be providing a platform for developers and creators to have their codes used globally.
+4. Ensuring inclusiveness which is one key attribute of Outreachy and MboaLab. In essence no one is excluded from this goodness.
+5. As a company with the aim of catalyzing sustainable local development and improve people&#39;s living conditions through open science, collaborating with Outreachy would make this project more sustainable by solving the needs of its end-users.
+
+**The Problem**
+
+Typhoid fever is a bacterial disease, caused by _Salmonella typhi_. Symptoms usually develop 1 to 3 weeks after exposure, and may be mild or severe. They include high fever, malaise, headache, constipation or diarrhea, spots on the chest, and an enlarged spleen and liver,
+
+The disease is almost exclusively transmitted via food and water contaminated by the faeces and urine of patients and carriers. In addition, shellfish taken from sewage-contaminated beds, vegetables fertilized with night-soil and eaten raw, and contaminated milk and milk products have been shown to be sources of infection.
+
+People can transmit the disease as long as the bacteria remains in their body; most people are infectious prior to and during the first week of convalescence, but 10% of untreated patients will discharge bacteria for up to 3 months. ([https://www.afro.who.int/health-topics/typhoid-fever](https://www.afro.who.int/health-topics/typhoid-fever))
+
+Typhoid fever is an invasive bacterial infection caused by _Salmonella enterica_ serovar Typhi. It is believed that \&gt;10 million clinical _Salmonella_ Typhi infections arise each year in low- and lower-middle-income countries, of which three million occur in Africa. Although the majority of typhoid cases arise in Asia, recent observations in Africa imply that the burden of disease is also substantial. Surveillance conducted at 13 sites in 10 countries in sub-Saharan Africa between 2010 and 2014 showed that the incidence rate of typhoid fever was as high as 383 (95% confidence interval, 274–535) per 100 000 person-years in one country ([https://pubmed.ncbi.nlm.nih.gov/28241011/](https://pubmed.ncbi.nlm.nih.gov/28241011/)).
+
+Our contemporary knowledge concerning the distribution and incidence of typhoid fever in Africa relies on extrapolation of data from several small-sized population-based studies reporting incidence rate estimates ([https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6821235/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6821235/)) .While prospective, population-based studies remain the most reliable source of data on typhoid fever incidence, such studies are highly resource intensive. The majority of countries in Africa lack data on typhoid incidence estimates from prospective studies.
+
+**The Severity of the Problem:**
+
+Typhoid fever remains a global health problem affecting an estimated 12.5 million people annually and is endemic in many countries, particularly those in Asia, Africa, and South America. Globally, 14·3 million (95% uncertainty interval [UI] 12·5-16·3) cases of typhoid and paratyphoid fevers occurred in 2017, about 197·8 (172·0-226·2) per 100 000 person-years in 2017. In 2017, Salmonella enterica serotype Typhi caused 76·3% (71·8-80·5) of cases of enteric fever. An estimated global case fatality of 0·95% (0·54-1·53) in 2017, with higher case fatality estimates among children and older adults, and among those living in lower-income countries. Therefore, an estimated 135·9 thousand (76·9-218·9) deaths from typhoid and paratyphoid fever happened globally in 2017, Overall, typhoid and paratyphoid fevers were responsible for 9·8 million (5·6-15·8) DALYs in 2017. ([https://pubmed.ncbi.nlm.nih.gov/30792131/](https://pubmed.ncbi.nlm.nih.gov/30792131/))
+
+Despite notable progress, typhoid and paratyphoid fevers remain major causes of disability and death, with billions of people likely to be exposed to the pathogens. Although improvements in water and sanitation remain essential, increased vaccine use (including with typhoid conjugate vaccines that are effective in infants and young children and protective for longer periods) and improved data and surveillance to inform vaccine rollout are likely to drive the greatest improvements in the global burden of the disease.
+
+Nevertheless, these estimates show that the burden of typhoid fever in Africa continues to be high, and highlight the need for control measures, including typhoid vaccination.
+
+**Diagnosis Methods Available and the challenges**
+
+- **Microbiological cultures** :  The isolation of the causative organism, Salmonella enterica serovar Typhi (Salmonella Typhi), is the gold standard for the diagnosis (WHO, 2018). Body fluids like blood, bone marrow, stool, urine, rose spots, gastric and intestinal secretions may be cultured. Blood culture gives a definitive diagnosis. But, the use of bacteriological cultures for the diagnosis of typhoid infection is cost-intensive and technically difficult, hence the need for other diagnostic tests.
+- **Antibody detection tests:**    These are rapid serologic tests designed for early and easy point-of-care use.  The Widal Test is based on the measurement of antibodies (agglutinins) against somatic (O) and flagellar (H) antigens of Salmonella typhi in the sera of patients. Widely used in many developing countries because of its low cost, Widal test is limited by lack of standardized methods of assay and misinterpretation of results. This has led to the overestimation of the number of patients presenting with acute febrile illnesses diagnosed with Typhoid fever. A systematic review by Mengist and Tilahun (2017) revealed poor reliability, low sensitivity and specificity of the Widal test.
+
+So, misdiagnosis is usually experienced since most health care facilities use only Widal test without confirmation of results with a second test method. In addition, the diagnosis of Typhoid involves several levels of uncertainties. Patients cannot tell exactly how they feel, doctors and nurses cannot tell exactly what they observe.
+
+**Proposed Solution**
+
+Augmented intelligence makes more sense than artificial intelligence, especially in tropical diseases such as Typhoid. This is because it highlights the enhanced capabilities of a human when augmented with the right tools and technologies. In a sensitive industry such as healthcare, human intelligence cannot be replaced.  Augmented intelligence specifies systems that augment human intelligence rather than attempt to replace them. Combining AI systems with an irreplaceable human clinician can advance better diagnosis.
+
+We propose to use the microcultures test with the blood which seems to be the best accepted by the laboratory technicians. We will use CNNs as algorithms on the collected images to train the algorithm. Everything will depend on the volume of images we have, if we have few images, we will use transfer learning to automate the test of microbiological cultures. Microculture test is reliable at 61% and to reinforce the reliability of this test we will use the second algorithm which is a fast decision tree learner. This algorithm is based on 18 symptom variables which will allow us not only to confirm the diagnosis but above all to determine the level of severity of the disease.  **The main challenge our project is facing is availability of local and high-quality open data.  **
+
+To solve the main challenge of the Project which is availability of local and high-quality open data, we have highlighted Roles of contributors that are necessary for this project. This includes:
+
+1. Data Gathering Team: They will be in charge of producing questionnaires, administration and collating results.
+2. Medical and diagnostic team: This is a team of medical expert with experience in diagnosis and treatment of typhoid patient. This will compose of Medical Lab Scientists and Medical Doctors and Microbiologist (immunologist specialty). They would organize Focus group discussion, understudy experimental text outcomes comparing Widal test, TUBEX and enzyme-linked immunosorbent assay (ELISA) in terms of cost consideration, Specificity and sensitivity as well as it linkages the 18 spectrum of symptoms and severity.
+3. Software Developers: To help in the coding and programming aspect of the project using images of different tests, associated symptoms and severity of bacterial infestation to provide algorithms
+4. Data Scientist and Engineer: To help analyze the data gathered, help build a robust dataset.
+5. Writer, Rapporteur, Content Writer: To help with the writing, reporting at each stage of the project.
+
+**Key Features that would Contribute to the Success of this Project**
+
+1. Evidence Based Practices: We would be making use of evidence-based and promising practices which are instrumental to having a strong program model. Evidence-based practice is conscientious, explicit, and judicious use of current best evidence in making decisions about care of the individual patient, program planning, and decision making for public health and healthcare. It means integrating individual clinical expertise with the best available evidence from systematic research.
+2. Community Engagement: A project of this magnitude would be engaging many different stakeholders and even organizing Focus Group Discussions at all levels.
+3. Sustainability Plans: Mboalab aims at sustainable community development. We understand that a sustainability plan is a roadmap for achieving long-term goals and documents strategies to continue the program and its activities.
+4. **Evaluation Support:**  Evaluation which is key in the determination of a project&#39;s effectiveness. We would be establishing relationship with researchers and evaluation experts to provide external feedback on project implementation, or evaluate the impact of the project.
+
+Hope to see you contribute to our project.
+
+MboaLab.
