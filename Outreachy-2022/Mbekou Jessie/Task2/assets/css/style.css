@@ -410,3 +410,12 @@ main#main {
     text-align: center;
     height: 100%;
 }
+.language{
+    display: flex;
+    align-items: center;
+    margin-left: 1rem;
+}
+
+data-error{
+    color: red;
+}

@@ -1,0 +1,312 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-10-31 22:04+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: fr_FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. this would look for the string in forum.mo instead of main.mo
+#. echo dgettext('forum', 'Welcome back!');
+#: i18n_setup.php:52
+msgid "home"
+msgstr "Accueil"
+
+msgid "about"
+msgstr "À propos"
+
+msgid "data_collection"
+msgstr "Collecte de données"
+
+msgid "contribution"
+msgstr "Contribution"
+
+msgid "outreachy"
+msgstr "Outreachy"
+
+msgid "team"
+msgstr "Équipe"
+
+msgid "contact"
+msgstr "Contact"
+
+msgid "learn_more"
+msgstr "En savoir plus"
+
+msgid "home_title_1"
+msgstr "Améliorer le diagnostic de la typhoïde"
+
+msgid "home_caption_1"
+msgstr "Grâce à la science ouverte : une technique basée sur l'intelligence artificielle"
+
+msgid "home_title_2"
+msgstr "Catalyser le développement local durable"
+
+msgid "home_caption_2"
+msgstr "Et améliorer les conditions de vie des gens grâce à la science ouverte"
+
+msgid "home_title_3"
+msgstr "proposer des solutions qui répondent aux besoins des collectivités"
+
+msgid "home_caption_3"
+msgstr "en utilisant les connaissances locales et les technologies numériques ouvertes"
+
+msgid "what_is"
+msgstr "Qu'est-ce que"
+
+msgid "visit_website"
+msgstr "Vous pouvez visiter notre site officiel ici :"
+
+msgid "get_to_know_us"
+msgstr "Apprendre a nous connaitre"
+
+msgid "about_us"
+msgstr "À propos de nous"
+
+msgid "aim_mission"
+msgstr "But et missions"
+
+msgid "mboalab_aim"
+msgstr "L'objectif de MboaLab est de catalyser le développement local durable et d'améliorer les conditions de vie des populations grâce à la science ouverte. A cet effet, les principales missions de Mboalab sont les suivantes :"
+
+msgid "abt_list"
+msgstr "<li>Offrir une éducation communautaire et tout au long de la vie à la population, ainsi qu'une éducation formelle pour les jeunes générations.</li><li>Servir de plate-forme d'échanges sur des questions liées au contexte local</li><li>Médiation entre les communautés locales et les universités</li><li>Proposer des solutions qui répondent aux besoins des communautés, en utilisant les connaissances locales et les technologies numériques ouvertes.</li>"
+
+msgid "vision"
+msgstr "Notre vision du développement local durable"
+
+msgid "vision_list"
+msgstr "<p>Nous prônons le caractère d'un développement local, qui est conféré par l'impératif de le faire émerger des communautés elles-mêmes ; c'est ce qui assure sa pertinence et sa pérennité. En d'autres termes, le développement local durable doit être pensé par et pour les membres d'une communauté donnée. </p><p class=\"mb-5\">Pour ce faire, il est important de briser l'esprit peu enthousiaste qui existe chez de nombreux camerounais, en formant des citoyens sains, éduqués et capables de réflexion critique sur les questions liées à leur environnement immédiat. En choisissant l'éducation et la santé comme axes prioritaires, associés à son rôle de médiateur entre Sciences-Technologies-Sociétés ; on peut dire clairement que Mboalab pourrait être un puissant catalyseur de développement local durable.</p>"
+
+msgid "mission"
+msgstr "Mboalab Biotech et son rôle dans la réalisation de notre mission."
+
+msgid "mission_list"
+msgstr "<p>Mboalab Biotech est un nœud de l'Open Bioeconomy Lab hébergé dans l'espace MboaLab. Créé en 2018, le laboratoire mène actuellement un certain nombre de projets parmi lesquels le projet ouvert de fabrication d'enzymes. Fondamentalement, notre travail à Mboalab Biotech vise à rendre la recherche et les outils en biotechnologie plus accessibles aux laboratoires du monde entier grâce à la recherche et au développement scientifiques et à la production locale de réactifs. </p><p class=\"mb-4\">Nous nous engageons à développer des ressources éducatives ouvertes ainsi que des protocoles simples et rentables pouvant être appliqués dans des laboratoires aux ressources limitées. Nous proposons également des projets de recherche scientifique ciblant les problèmes de santé locaux, des opportunités de stages et des sessions de formation à de jeunes scientifiques locaux afin de les doter de compétences en biologie moléculaire et bricolage-biologie et de les préparer à l'emploi.</p>"
+
+msgid "how_we_work"
+msgstr "Comment nous travaillons"
+
+msgid "improve_diagnostics"
+msgstr "Améliorer le diagnostic de la typhoïde grâce à la science ouverte : une technique basée sur l'intelligence artificielle"
+
+msgid "context"
+msgstr "Le contexte"
+
+msgid "context_content"
+msgstr "<p>La fièvre typhoïde est une infection potentiellement mortelle causée par la bactérie Salmonella Typhi. Il se transmet généralement par des aliments ou de l'eau contaminés. Une fois que les bactéries Salmonella Typhi sont mangées ou bues, elles se multiplient et se propagent dans la circulation sanguine.<br>L'urbanisation et le changement climatique ont le potentiel d'augmenter le fardeau mondial de la typhoïde. De plus, la résistance croissante au traitement antibiotique facilite la propagation de la typhoïde à travers les populations surpeuplées dans les villes et les systèmes d'eau et d'assainissement inadéquats et/ou inondés.<br>La fièvre typhoïde ou entérique est l'une des maladies humaines infectieuses au Cameroun et en Afrique . Les épidémies de fièvre typhoïde causées par Salmonella typhi restent un grave problème de santé dans le monde. Il existe actuellement un certain nombre de tests disponibles, des tests moléculaires à immunologiques et biochimiques à microbiologiques. Certaines méthodes bien connues et conventionnelles de diagnostic de la fièvre typhoïde sont :</p>"
+
+msgid "microbiological_cultures"
+msgstr "Cultures microbiologiques"
+
+msgid "mc_content"
+msgstr "L'isolement de l'organisme causal, Salmonella enterica sérovar Typhi (Salmonella Typhi), est l'étalon-or pour le diagnostic (OMS, 2018). Les fluides corporels comme le sang, la moelle osseuse, les selles, l'urine, les taches roses, les sécrétions gastriques et intestinales peuvent être cultivés. L'hémoculture donne un diagnostic définitif. Mais, l'utilisation de cultures bactériologiques pour le diagnostic de l'infection typhoïde est coûteuse et techniquement difficile, d'où la nécessité d'autres tests de diagnostic."
+
+msgid "antibody_detection"
+msgstr "Tests de détection d'anticorps"
+
+msgid "ad_content"
+msgstr "Ce sont des tests sérologiques rapides conçus pour une utilisation précoce et facile au point de service. Le Widal Test est basé sur la mesure des anticorps (agglutinines) contre les antigènes somatiques (O) et flagellaires (H) de Salmonella typhi dans les sérums des patients. Largement utilisé dans de nombreux pays en développement en raison de son faible coût, le test Widal est limité par le manque de méthodes de dosage standardisées et une mauvaise interprétation des résultats. Cela a conduit à une surestimation du nombre de patients présentant des maladies fébriles aiguës diagnostiquées avec la fièvre typhoïde. Une revue systématique de Mengist et Tilahun (2017) a révélé une faible fiabilité, une faible sensibilité et spécificité du test de Widal."
+
+msgid "misdiagnosis"
+msgstr "Donc, un diagnostic erroné est généralement rencontré car la plupart des établissements de santé n'utilisent que le test Widal sans confirmation des résultats avec une deuxième méthode de test. De plus, le diagnostic de la typhoïde comporte plusieurs niveaux d'incertitudes. Les patients ne peuvent pas dire exactement ce qu'ils ressentent, les médecins et les infirmières ne peuvent pas dire exactement ce qu'ils observent."
+
+msgid "opportunities"
+msgstr "Opportunités et solutions"
+
+msgid "opportunities_content"
+msgstr "<p>L'intelligence augmentée a plus de sens que l'intelligence artificielle, en particulier dans les maladies tropicales telles que la typhoïde. C'est parce qu'il met en évidence les capacités améliorées d'un humain lorsqu'il est augmenté avec les bons outils et technologies. Dans un secteur sensible comme la santé, l'intelligence humaine ne peut être remplacée. L'intelligence augmentée spécifie des systèmes qui augmentent l'intelligence humaine plutôt que de tenter de les remplacer. La combinaison de systèmes d'IA avec un clinicien humain irremplaçable peut faire avancer un meilleur diagnostic.</p><p>Nous proposons d'utiliser le test de microcultures avec le sang qui semble être le mieux accepté par les techniciens de laboratoire. Nous utiliserons les CNN comme algorithmes sur les images collectées pour entraîner l'algorithme. Tout dépendra du volume d'images dont nous disposons, si nous en avons peu nous utiliserons l'apprentissage par transfert pour automatiser le test des cultures microbiologiques. Comme nous l'avons vu plus haut ce test est fiable à 61% et pour renforcer la fiabilité de ce test nous utiliserons le deuxième algorithme qui est un apprenant d'arbre de décision rapide. Cet algorithme basé sur 18 variables symptomatiques nous permettra non seulement de confirmer le diagnostic mais surtout de déterminer le niveau de gravité de la maladie. <strong> Le principal défi auquel notre projet est confronté est la disponibilité de données ouvertes locales et de haute qualité.</strong> </p>"
+
+msgid "proposed_tool"
+msgstr "Outil proposé"
+
+msgid "tool_content"
+msgstr "<p>Avec ce défi principal indiqué ci-dessus (c'est-à-dire : la disponibilité de données ouvertes locales et de haute qualité), nous devons rechercher des outils de haute qualité pour aider à collecter des données fiables et précises pour notre projet.<br>L'outil proposé pour notre collecte de données est JotForm (<a href=\"https://www.jotform.com/\" target=\"_blank\">https://www.jotform.com/</a>), une puissante application en ligne qui permet quiconque de créer rapidement des formulaires en ligne personnalisés. Grâce à Jotform, vous pouvez créer et publier des formulaires, les intégrer à votre site, collecter des données auprès de vos utilisateurs et recevoir des réponses par email. Cette application permet aux utilisateurs de collecter différents types de données, telles que des enregistrements vocaux, des codes-barres, des géolocalisations et des signatures électroniques, puis de créer, visualiser, accéder, trier, remplir, partager et organiser toutes ces données en un seul endroit. Il permet également l'encaissement des paiements. </p><p>JotForm est une application Web, également disponible sous le nom de Jotform Mobile pour les appareils Android et IOS. Jotform Mobile Form vous permet de travailler hors ligne, vous pouvez donc collecter des données en déplacement. Une fois que vous êtes de nouveau en ligne, Jotform synchronisera automatiquement vos données pour une expérience ininterrompue. C'est une excellente solution pour les travailleurs sur le terrain qui mènent des recherches sur le terrain sans accès à Internet, car elle permet de faire des soumissions même hors ligne.</p>"
+
+msgid "data_collected"
+msgstr "Données collectées"
+
+msgid "with_the_tool"
+msgstr "Avec l'outil mentionné ci-dessus, nous prévoyons de collecter les données suivantes pour notre projet :"
+
+msgid "tool_list"
+msgstr "<li>Recueillir les associations de symptômes qui confirment la maladie et son niveau de gravité auprès des professionnels de la santé. </li><li>Collectez des images pour notre ensemble de données en tenant compte des différents groupes ethniques, du sexe et de l'âge.</li><li>Avoir une idée des régions du pays ayant le plus grand nombre de cas ainsi que leur tranche d'âge.</li>"
+
+msgid "project"
+msgstr "Projet"
+
+msgid "contribution_content"
+msgstr "Contribuer à l'open source peut être un moyen gratifiant d'apprendre, d'enseigner et d'acquérir de l'expérience dans à peu près toutes les compétences que vous pouvez imaginer. Vous pouvez contribuer via :"
+
+msgid "contribution_list"
+msgstr "<li>Codage</li><li>Tests et frameworks de test</li><li>Rapports de bogues</li><li>Réponses aux questions</li><li>Documentation et tutoriels</li><li> Graphiques</li><li>Expérience utilisateur (UX)</li><li>Marketing</li>"
+
+msgid "how_to_contribute"
+msgstr "Comment contribuer"
+
+msgid "this_project_contribution"
+msgstr "Ce projet accepte des contributions de personnes du monde entier depuis plus de 2 ans. Ce projet est ouvert aux contributions soit par le codage, soit par la fourniture d'images pour notre ensemble de données. Vous pouvez suivre ce lien pour rejoindre le groupe communautaire où vous pouvez entrer en contact avec les mentors et les membres de la communauté."
+
+msgid "join_group"
+msgstr "Rejoins le groupe"
+
+msgid "coding"
+msgstr "Grâce au codage"
+
+msgid "coding_contribution"
+msgstr "Toutes les informations et ressources importantes concernant le projet ainsi que la façon de participer et de contribuer sont disponibles sur le compte GitHub de la communauté Mboalab."
+
+msgid "contribute"
+msgstr "Contribuer"
+
+msgid "image_provision"
+msgstr "Fourniture d'images"
+
+msgid "image_contribution"
+msgstr "Les contributions ne sont pas que des codes. Vous pouvez contribuer au projet en fournissant des images pour notre ensemble de données qui aideront à former notre modèle."
+
+msgid "open_source_project"
+msgstr "Projet open source"
+
+msgid "what_is_open_source"
+msgstr "Qu'est-ce que l'Open Source"
+
+msgid "open_source_def"
+msgstr "<p>Le terme open source fait référence à quelque chose que les gens peuvent modifier et partager car sa conception est accessible au public. Le terme est né dans le contexte du développement de logiciels pour désigner une approche spécifique de la création de programmes informatiques. Aujourd'hui, cependant, « open source » désigne un ensemble plus large de valeurs, ce que nous appelons « la voie de l'open source ». Les projets, produits ou initiatives open source embrassent et célèbrent les principes d'échange ouvert, de participation collaborative, de prototypage rapide, de transparence, de méritocratie et de développement axé sur la communauté.</p><p>Pour les demandeurs d'emploi, 86 % des professionnels de la technologie disent ouvert source a fait avancer sa carrière. L'open source vous aidera :</p>"
+
+msgid "open_source_list"
+msgstr "<li>Créer un portfolio</li><li>Trouver des mentors</li><li>Démontrer des compétences en collaboration</li><li>Réseauter et trouver des emplois</li>"
+
+msgid "what_is_outreachy"
+msgstr "Qu'est-ce que Outreachy"
+
+msgid "outreachy_def"
+msgstr "est un programme de stages rémunérés à distance dont l'objectif est d'accroître la diversité dans l'open source. Outreachy soutient les personnes issues de groupes sous-représentés dans la technologie. Il aide également les nouveaux venus aux logiciels libres et open source à apporter leurs premières contributions et invite expressément les candidatures de :"
+
+msgid "outreachy_list_1"
+msgstr "<li>Femmes (cis et trans), hommes trans et homosexuels</li><li>États-Unis les résidents et les ressortissants noirs/afro-américains, hispaniques/latinos, amérindiens, natifs de l'Alaska, hawaïens ou insulaires du Pacifique</li><li>Toute personne confrontée à des préjugés ou à une discrimination systématique dans l'industrie technologique de leur pays</li >"
+
+msgid "outreachy_provides"
+msgstr "Outreachy propose des stages pour travailler en open source. Les gens postulent partout dans le monde. Les stagiaires travaillent à distance et ne sont pas obligés de se déplacer. Les stagiaires reçoivent une allocation de 6 000 USD pour le stage de trois mois.<br>Les stagiaires travaillent avec des mentors expérimentés issus des communautés open source. Les projets de stage de sensibilisation peuvent inclure la programmation, l'expérience utilisateur, la documentation, l'illustration, la conception graphique ou la science des données. Les stagiaires trouvent souvent un emploi après leur stage avec des sponsors de sensibilisation ou dans des emplois qui utilisent les compétences qu'ils ont acquises pendant leur stage."
+
+msgid "outreachy_process"
+msgstr "Processus de candidature pour Outreachy:"
+
+msgid "outreachy_list_2"
+msgstr "<li>Remplir une demande initiale</li><li>Apporter une contribution à un projet</li><li>Remplir une demande finale pour le projet</li>"
+
+msgid "outreachy_runs_twice"
+msgstr "Outreachy a lieu deux fois par an"
+
+msgid "may_internships"
+msgstr "Stages de mai"
+
+msgid "december_internships"
+msgstr "Stages de décembre"
+
+msgid "initial_application"
+msgstr "Demandes initiales dues"
+
+msgid "feb"
+msgstr "26 fév"
+
+msgid "sept"
+msgstr "24 sept"
+
+msgid "contribution_final"
+msgstr "Contributions et demandes finales dues"
+
+msgid "apr"
+msgstr "9 avr"
+
+msgid "nov"
+msgstr "5 nov"
+
+msgid "internships"
+msgstr "stages"
+
+msgid "may_aug"
+msgstr "20 mai - 20 août"
+
+msgid "dec_mar"
+msgstr "3 déc. - 3 mars"
+
+msgid "application_tips"
+msgstr "Conseils d'application pour Outreachy"
+
+msgid "tips_list"
+msgstr "<li>Passez du temps sur vos redactions de candidature initiales</li><li>Contactez les mentors et posez beaucoup de questions !</li><li>Ne postulez qu'à 1 ou 2 projets</li><li>La contribution prend au moins 1 semaine - commencez tôt !</li><li>Faites plusieurs contributions</li>"
+
+msgid "here_is_a_link"
+msgstr "Voici un lien pour en savoir plus sur l'open source, gsoc et outreachy"
+
+msgid "outreachy_open_projects"
+msgstr "Projets ouverts sur Outreachy"
+
+msgid "mentors_for_these"
+msgstr "<p>Les mentors de ces projets sont prêts à travailler avec de nouveaux candidats à la sensibilisation. Veuillez noter qu'au fur et à mesure que le cycle avance, les mentors peuvent fermer leur projet à de nouveaux candidats car ils travaillent déjà avec de nombreux candidats. Assurez-vous de commencer votre contribution requise dès que possible !</p><p>Chaque mentor de projet recherche des candidats ayant des compétences différentes. Parfois, une compétence est une exigence difficile à posséder pour un candidat. D'autres fois, un mentor peut préférer qu'un candidat possède une compétence, mais il acceptera comme stagiaire un candidat qui ne possède pas cette compétence. Certaines compétences sont « agréables à avoir », ce qui signifie que ce serait formidable si les candidats possèdent cette compétence, mais le mentor n'a pas de préférence marquée.</p>"
+
+msgid "project_application"
+msgstr "Demande de projet"
+
+msgid "your_final_application"
+msgstr "<p>Votre candidature finale vous demandera de remplir un calendrier pour le projet de stage. Si vous avez des problèmes avec cela, ou si un mentor vous dit qu'il ne veut pas que vous remplissiez le calendrier, vous devez simplement noter tous les engagements à temps plein que vous aurez pendant la période de stage qui auront un impact sur votre travail.<br> Lorsqu'ils remplissent le calendrier, les candidats doivent examiner les tâches de stage répertoriées sur la page du projet et prendre en compte leurs engagements à temps plein pour déterminer ce sur quoi ils travailleront pendant quelle partie de la période de stage. </p><p>La plupart des projets nécessiteront quelques semaines de montée en puissance, de recherche et d'intégration dans la communauté. Essayez de diviser chaque grande tâche de stage en plusieurs tâches plus petites, jusqu'à ce que vous ayez une idée de ce pour quoi vous travaillerez chaque semaine du stage de 13 semaines. Tous les projets auront des tâches dont les détails seront vagues jusqu'au moment où vous commencerez la tâche. Il est bon de fournir des descriptions de niveau supérieur de ce sur quoi vous allez travailler.</p>"
+
+msgid "our_team"
+msgstr "Les membres de notre équipe"
+
+msgid "would_you_like"
+msgstr "Souhaitez-vous nous contacter?"
+
+msgid "simply_fill"
+msgstr "Remplissez simplement le formulaire ci-dessous et cliquez sur Soumettre."
+
+msgid "name_required"
+msgstr "Nom (obligatoire)"
+
+msgid "email_required"
+msgstr "Email (obligatoire)"
+
+msgid "subject"
+msgstr "Sujet"
+
+msgid "message"
+msgstr "Message"
+
+msgid "processing"
+msgstr "En cours..."
+
+msgid "submit"
+msgstr "Soumettre"
+
+msgid "center_region"
+msgstr "Région du Centre"
+
+msgid "footer_aim"
+msgstr "L'objectif de MboaLab est de catalyser le développement local durable et d'améliorer les conditions de vie des populations grâce à la science ouverte avec ce projet étant : <br>Améliorer le diagnostic de la typhoïde grâce à la science ouverte : une technique basée sur l'intelligence artificielle."
+
+msgid "get_in_touch"
+msgstr "Entrer en contact"
+
+msgid "phone"
+msgstr "Téléphone"
+
+msgid "email"
+msgstr "Email"
+
+msgid "copyright"
+msgstr "Copyright © Projet MboaLab 2021"
+
+msgid "what_is_mboalab"
+msgstr "<p>MboaLab est un espace ouvert et collaboratif situé à Yaoundé, au Cameroun. L'objectif de MboaLab est de catalyser le développement local durable et d'améliorer les conditions de vie des populations grâce à la science ouverte.</p> <p> MboaLab est un espace ouvert et collaboratif situé dans le village de Mefou-Assi, Yaoundé, Cameroun. Le mot « Mboa » a différentes significations dans les langues camerounaises natives : à Matakam, il signifie « nouveau » ; en Ewondo, cela signifie « unique » ; en Duala, cela signifie « village ». Traduit littéralement, MboaLab est un village rassembleur dédié à la création ; mieux encore, c'est un laboratoire d'innovation sociale, d'éducation communautaire, de collaboration et de médiation au service de la communauté. </p>"
