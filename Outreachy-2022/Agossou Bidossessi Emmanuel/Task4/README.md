@@ -13,5 +13,5 @@ technique</h2>
   </b>
 </ul>
 <br>
-<h3> Please check the contents in the PDF document "Contents for the online platform"</h3>
+<h3> Please check the contents in the PDF document <a href="Contents%20for%20the%20online%20platform.pdf"> "Contents for the online platform"</a></h3>
 <br>
