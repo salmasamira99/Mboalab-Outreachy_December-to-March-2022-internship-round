@@ -18,6 +18,7 @@ export class CategoriesComponent implements OnInit {
 
   public loadingData = false;
   public loading = false;
+  public animationType = 'wanderingCubes';
   public categories: any = [];
   public categoryCount = 0;
   public categoryFile: any;

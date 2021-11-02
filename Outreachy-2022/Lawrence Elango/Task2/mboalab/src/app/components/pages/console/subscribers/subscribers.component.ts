@@ -17,6 +17,7 @@ export class SubscribersComponent implements OnInit {
 
   public loadingData = false;
   public loading = false;
+  public animationType = 'wanderingCubes';
   public subscribers: any = [];
   public subscriberCount = 0;
   public subscriberFile: any;

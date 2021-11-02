@@ -25,7 +25,7 @@ export class ContentComponent implements AfterContentInit, OnInit {
   public postsPerPage: any;
   public loadingData = false;
   public loading = false;
-
+  public animationType = 'wanderingCubes';
   public defaultStartDate = "";
   public defaultEndDate = "";
   public defaultStatus = "all";
