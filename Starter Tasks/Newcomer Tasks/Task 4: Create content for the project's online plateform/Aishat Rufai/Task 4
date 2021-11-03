@@ -1,0 +1,123 @@
+Task 4: Create content for the project's online platform
+
+#Project Goals, Relevance and Objectives
+
+The goal of this project is to improve the diagnosis of Typhiod fever by combining Artificial Intellgience systems with irreplaceable human cinician for acquiring human clinical data for improved diagnosis 
+
+This can be accomplished by the use of the following:
+ -Microcultures test with blood
+ -Convolutional Neural Networks(CNN) to train images
+ -Decision tree to train structured data
+ 
+The use of the methods above will lead to appropriate diagnostics of typhoid fever and more importantly, the severity level of the disease.
+
+#Relevant Content to be displayed on the website
+--Home Page--
+ This should provide a clear description of Mboalab, ongoing projects and past projects. Other pages are linked to the homepage.
+
+--Mboalab Research--
+ Research areas Mboalab is involved with.
+ 
+ --About --
+This shows Mboalabs Vision, mission. 
+
+ --Mboalab  tools--
+ Project tools used such as AI, software and data collection tools applicable to the projects.
+ 
+--Support--
+This includes all organizations that supports the Mboalabs Projects For example: Outreachy Program.
+--Team--
+ Highlights biography and/or pictures of Mboalab's team members 
+ 
+ --Contact Us--
+  Displays where information can be sent to Mboalab, For example;
+  phone number, email address, address- physical location (if applicable) and social media handles.
+  
+ --News--
+ Shows latest news on projects
+ 
+ --Contributors--
+ Process for selecting candidates required to join the team
+
+ --Mailing List--
+ People visiting website can subscribe for latest news from Mboalab 
+ 
+ --FAQ--
+ A list of most commonly asked questions will be answered on this link
+ 
+#Creating and designing text content based on collected information above
+
+###Project Description
+####About Mboalab
+Mboalab is an open and collaborative space located in Yaounde, Cameroon. It is a laboratory for social innovation, community education, collaboration and mediation at the service of the community.
+Mboalab Biotech is focused on making biotechnology research and tools readily available to labs worldwide through scientific research and development and local production of reagents. 
+In addition, we provide scientific research projects which aims to tackle local health issues and provide internship opportunities and training programs for young local scientists.
+
+####Project Background
+ Typhoid or Enteric fever is one of the most infectious human diseases in Cameroon and Africa. There are a number of well-known and conventional method of diagnosis of typhoid fever. However, these tests have limitations such as;
+ 1. Complexities in result
+ 2. Expensive tests
+ 3. Lack of standardized methods
+ 4. Misinterpretation of results
+ 
+ Thus, misdiagnosis is commonly experienced in most healthcare facilities. In addition, the diagnosis of Typhoid involves several levels of uncertainities.
+ We will use the combination of open science-AI and human clinicians for the accomplishment of this project.
+ 
+ ####Project Challenges
+ **The main challenge of this project is availability of local and high quality open data.**
+ Hence, there is need to develop accurate data collection tools and acquire datasets from reliable sources.  
+ 
+ ####Opportunities and Solutions
+ 
+  Mboalab propose the following methods for typhoid fever diagnosis;
+ -Microcultures test with blood
+ -Convolutional Neural Networks(CNN) to train images
+ -Decision tree to train structured data
+ **NOTE**: For CNN algorithm, everything will depend on the volume of images available.
+ 
+ ####Project Tools
+ In addition to the methods above, we will use the most fitting and accurate data collection tools for this project. This tools can be in the form of Questionnaires, surveys, interviews.
+ 
+This data collection tools must be;
+-Designed in order to collect the associations of symptoms that confirm the disease and its level of severity;
+-Collect feedback about delveloped tool from the community;
+-Addressed to local health care professionals and practitioners affiliated and having access to patients data records;
+-Able to acquire of prospective and retrospective Datasets;
+-Able to take into account local and context specificties (Language, access to specific resources etc..).
+
+Furthermore, we will need to set up a local and robust dataset subdivided into two datasets which consists of;
+1. Images
+2. Structured data
+The dataset should be open , interoperable and aligned with the Metadata Schema 4.4 (https://schema.datacite.org/) 
+
+####Discussion. 
+Therefore, from the project description above, we are in need of contributors to help us achieve the following:
+- Design interviews for health practioners in order to collect the associations of symptoms and its severity levels with the use of the most fitting data colection tools described above.
+-Collect images by taking into consideration, different ethnic groups, age and gender
+-Design the Convolutional Neural Networks to train images and Decision tree to train structured data
+
+If you are interested in contributing to this project [click here](link)
+For more information on the project [visit](link)
+
+Thank you for your contributions, We look forward to having them.
+
+Join our Mailing list for Mboalabs latest updates.
+
+
+If you have other questions , feel free to contact us at (link)
+ 
+You can also check us out on social media platforms available at (social media link)
+ 
+Thank you for visiting our website. 
+
+
+
+ 
+
+
+
+
+
+
+
+

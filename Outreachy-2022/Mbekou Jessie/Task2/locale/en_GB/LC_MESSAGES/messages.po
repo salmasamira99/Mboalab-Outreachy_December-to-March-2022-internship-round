@@ -1,0 +1,314 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-10-31 22:04+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: en_GB\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. this would look for the string in forum.mo instead of main.mo
+#. echo dgettext('forum', 'Welcome back!');
+#: i18n_setup.php:52
+msgid "home"
+msgstr "Home"
+
+msgid "about"
+msgstr "About"
+
+msgid "data_collection"
+msgstr "Data Collection"
+
+msgid "contribution"
+msgstr "Contribution"
+
+msgid "outreachy"
+msgstr "Outreachy"
+
+msgid "team"
+msgstr "Team"
+
+msgid "contact"
+msgstr "Contact"
+
+msgid "learn_more"
+msgstr "Learn More"
+
+msgid "home_title_1"
+msgstr "Improving Diagnostics of typhoid"
+
+msgid "home_caption_1"
+msgstr "Through Open Science: An Artificial Intelligence-based technique"
+
+msgid "home_title_2"
+msgstr "Catalyse sustainable local development"
+
+msgid "home_caption_2"
+msgstr "And improve people’s living conditions through open science"
+
+msgid "home_title_3"
+msgstr "propose solutions that meet the needs of communities"
+
+msgid "home_caption_3"
+msgstr "using local knowledge and open digital technologies"
+
+msgid "what_is"
+msgstr "What is"
+
+msgid "visit_website"
+msgstr "You can visit our official website here:"
+
+msgid "get_to_know_us"
+msgstr "Get to know us"
+
+msgid "about_us"
+msgstr "About Us"
+
+msgid "aim_mission"
+msgstr "Aim and missions"
+
+msgid "mboalab_aim"
+msgstr "The aim of MboaLab is to catalyse sustainable local development and improve people’s living conditions through open science. To this end, the main missions of Mboalab are as follows:"
+
+msgid "abt_list"
+msgstr "<li>Provide community and lifelong education for the population, as well as formal education for the younger generations.</li><li>Serve as a platform for exchanges on issues related to local context</li><li>Mediate between local communities and academia</li><li>Propose solutions that meet the needs of communities, using local knowledge and open digital technologies.</li>"
+
+msgid "vision"
+msgstr "Our vision of sustainable local development"
+
+msgid "vision_list"
+msgstr "<p>We advocate for the character of a local development, which is conferred by the imperative to have it emerge from the communities themselves; this is what ensures its relevance and sustainability. In other words, sustainable local development needs to be thought by and for the members of a given community. </p><p class=\"mb-5\">To do so, it is important to break the unenthusiastic spirit that exists among many Cameroonians, by training healthy, educated citizens capable of critical thinking on issues related to their immediate environment. By choosing education and health as priority axes, associated with its role as a mediator between Science-Technologies-Societies; we can say clearly that Mboalab could be a powerful catalyst for local sustainable development.</p>"
+
+msgid "mission"
+msgstr "Mboalab Biotech and its role in the achievement of our mission."
+
+msgid "mission_list"
+msgstr "<p>Mboalab Biotech is a node of the Open Bioeconomy Lab hosted in MboaLab space. Established in 2018, the lab currently runs a number of projects amongst which the open enzyme manufacturing project. At its core, our work in Mboalab Biotech is focused on making biotechnology research and tools more accessible to labs around the world through scientific research and development and local production of reagents. </p><p class=\"mb-4\">We are committed to the development of open educational resources as well as simple and cost-effective protocols that can be applied in resource-limited laboratories. We also provide scientific research projects targeting local health issues, internships opportunities, and training sessions to young local scientists in order to equip them with molecular biology and DIY- Biology skills, and prepare them for employment.</p>"
+
+msgid "how_we_work"
+msgstr "How we work"
+
+msgid "improve_diagnostics"
+msgstr "Improve diagnostics of typhoid through Open Science: An Artificial Intelligence-based technique"
+
+msgid "context"
+msgstr "Context"
+
+msgid "context_content"
+msgstr "<p>Typhoid fever is a life-threatening infection caused by the bacterium Salmonella Typhi. It is usually spread through contaminated food or water. Once Salmonella Typhi bacteria are eaten or drunk, they multiply and spread into the bloodstream.<br>Urbanization and climate change have the potential to increase the global burden of typhoid. In addition, increasing resistance to antibiotic treatment is making it easier for typhoid to spread through overcrowded populations in cities and inadequate and/or flooded water and sanitation systems.<br>Typhoid or Enteric fever is one of the infectious human diseases in Cameroon and Africa. Outbreaks of typhoid fever caused by Salmonella typhi remains a serious health problem worldwide. There are a number of tests available presently, from molecular to immunological and biochemical to microbiological. Some well-known and conventional Method of Diagnosis of Typhoid Fever are :</p>"
+
+msgid "microbiological_cultures"
+msgstr "Microbiological cultures"
+
+msgid "mc_content"
+msgstr "The isolation of the causative organism, Salmonella enterica serovar Typhi (Salmonella Typhi), is the gold standard for the diagnosis (WHO, 2018). Body fluids like blood, bone marrow, stool, urine, rose spots, gastric and intestinal secretions may be cultured. Blood culture gives a definitive diagnosis. But, the use of bacteriological cultures for the diagnosis of typhoid infection is cost-intensive and technically difficult, hence the need for other diagnostic tests."
+
+msgid "antibody_detection"
+msgstr "Antibody detection tests"
+
+msgid "ad_content"
+msgstr "These are rapid serologic tests designed for early and easy point-of-care use. The Widal Test is based on the measurement of antibodies (agglutinins) against somatic (O) and flagellar (H) antigens of Salmonella typhi in the sera of patients. Widely used in many developing countries because of its low cost, Widal test is limited by lack of standardized methods of assay and misinterpretation of results. This has led to the overestimation of the number of patients presenting with acute febrile illnesses diagnosed with Typhoid fever. A systematic review by Mengist and Tilahun (2017) revealed poor reliability, low sensitivity and specificity of the Widal test."
+
+msgid "misdiagnosis"
+msgstr "So, misdiagnosis is usually experienced since most health care facilities use only Widal test without confirmation of results with a second test method. In addition, the diagnosis of Typhoid involves several levels of uncertainties. Patients cannot tell exactly how they feel, doctors and nurses cannot tell exactly what they observe."
+
+msgid "opportunities"
+msgstr "Opportunities and solution"
+
+msgid "opportunities_content"
+msgstr "<p>Augmented intelligence makes more sense than artificial intelligence, especially in tropical diseases such as Typhoid. This is because it highlights the enhanced capabilities of a human when augmented with the right tools and technologies. In a sensitive industry such as healthcare, human intelligence cannot be replaced. Augmented intelligence specifies systems that augment human intelligence rather than attempt to replace them. Combining AI systems with an irreplaceable human clinician can advance better diagnosis.</p><p>We propose to use the microcultures test with the blood which seems to be the best accepted by the laboratory technicians. We will use CNNs as algorithms on the collected images to train the algorithm. Everything will depend on the volume of images we have, if we have few we will use transfer learning to automate the test of microbiological cultures .As we saw above this test is reliable at 61% and to reinforce the reliability of this test we will use the second algorithm which is a fast decision tree learner. This algorithm based on 18 symptoma variables will allow us not only to confirm the diagnosis but above all to determine the level of severity of the disease. <strong> The main challenge our project is facing is availability of local and high quality open data.</strong> </p>"
+
+msgid "proposed_tool"
+msgstr "Proposed Tool"
+
+msgid "tool_content"
+msgstr "<p>With this main challenge stated above (that is: availability of local and high quality open data), we ought to seek for high quality tools to help collect reliable and accurate data for our project.<br>The proposed tool for our collection of data is JotForm (<a href=\"https://www.jotform.com/\" target=\"_blank\">https://www.jotform.com/</a>), a powerful online application that allows anyone to quickly create custom online forms. Using Jotform, you can create and publish forms, integrate them into your site, collect data from your users and receive responses by email. This app allows users to collect various types of data, such as voice recordings, barcodes, geolocations and electronic signatures and then build, view, access, sort, fill out, share, and organise all this data in a single place. It also allows payment collection. </p><p>JotForm is a web-based app, also available as Jotform Mobile for both Android and IOS devices. Jotform Mobile Form lets you work offline, so you can collect data on the go. Once you’re back online, Jotform will sync your data automatically for an uninterrupted experience. It’s a great solution for field workers conducting field research without internet access as it allows submissions to be done even offline. </p>"
+
+msgid "data_collected"
+msgstr "Data Collected"
+
+msgid "with_the_tool"
+msgstr "With the tool mention above we plan on gathering the following data for our project:"
+
+msgid "tool_list"
+msgstr "<li>Collect the associations of symptoms that confirm the disease and its level of severity from healthcare practitioners. </li><li>Collect images for our dataset taking into account the different ethnic groups, gender and age.</li><li>Have an idea of the regions of the country having the highest number of cases as well as their age group.</li>"
+
+msgid "project"
+msgstr "Project"
+
+msgid "contribution_content"
+msgstr "Contributing to open source can be a rewarding way to learn, teach, and build experience in just about any skill you can imagine. You can contribute through:"
+
+msgid "contribution_list"
+msgstr "<li>Code</li><li>Tests & test frameworks</li><li>Bug reports</li><li>Answering questions</li><li>Documentation & tutorials</li><li>Graphics</li><li>User Experience (UX)</li><li>Marketing</li>"
+
+msgid "how_to_contribute"
+msgstr "How to contribute"
+
+msgid "this_project_contribution"
+msgstr "This project has been accepting contributions from people from around the world for more than 2 years. This project is open to contributions either through coding or providing images for our dataset. You can follow this link to join the community group where you can get in touch with the mentors and community members."
+
+msgid "join_group"
+msgstr "Join the group"
+
+msgid "coding"
+msgstr "Through Coding"
+
+msgid "coding_contribution"
+msgstr "All important information and resources concerning the project as well as how to participate and contribute are available at the Mboalab Community GitHub account. "
+
+msgid "contribute"
+msgstr "Contribute"
+
+msgid "image_provision"
+msgstr "Image Provision"
+
+msgid "image_contribution"
+msgstr "Contributions are not only codes. You can contribute to the project by providing images for our dataset that will help train our model."
+
+msgid "open_source_project"
+msgstr "Open source project"
+
+msgid "what_is_open_source"
+msgstr "What is Open Source"
+
+msgid "open_source_def"
+msgstr "<p>The term open source refers to something people can modify and share because its design is publicly accessible. The term originated in the context of software development to designate a specific approach to creating computer programs. Today, however, \"open source\" designates a broader set of values—what we call \"the open source way.\" Open source projects, products, or initiatives embrace and celebrate principles of open exchange, collaborative participation, rapid prototyping, transparency, meritocracy, and community-oriented development.</p><p>For jobs seekers, 86% of tech professionals say open source has advanced their careers. Open source will help you:</p>"
+
+msgid "open_source_list"
+msgstr "<li>Create a portfolio</li><li>Find mentors</li><li>Demonstrate collaboration skills</li><li>Network and find jobs</li>"
+
+msgid "what_is_outreachy"
+msgstr "What is Outreachy"
+
+msgid "outreachy_def"
+msgstr "is a paid, remote internship program whose goal is to increase diversity in open source. Outreachy supports people from groups underrepresented in tech. It also helps newcomers to free software and open source make their first contributions and expressly invites applications from:"
+
+msgid "outreachy_list_1"
+msgstr "<li>Women (cis & trans), trans men, and genderqueer people</li><li>U.S. residents & nationals who are Black/African American, Hispanic/Latino, American Indian, Alaska Native, Native Hawaiian, or Pacific Islander</li><li>Anyone who faces systematic bias or discrimination in the technology industry of their country</li>"
+
+msgid "outreachy_provides"
+msgstr "Outreachy provides internships to work open source. People apply from all around the world. Interns work remotely, and are not required to move. Interns are paid a stipend of $6,000 USD for the three-month internship.<br>Interns work with experienced mentors from open source communities. Outreachy internship projects may include programming, user experience, documentation, illustration, graphical design, or data science. Interns often find employment after their internship with Outreachy sponsors or in jobs that use the skills they learned during their internship."
+
+msgid "outreachy_process"
+msgstr "Outreachy application process:"
+
+msgid "outreachy_list_2"
+msgstr "<li>Fill out an initial application</li><li>Make a contribution to a project</li><li>Complete a final application for the project</li>"
+
+msgid "outreachy_runs_twice"
+msgstr "Outreachy runs twice a year"
+
+msgid "may_internships"
+msgstr "May internships"
+
+msgid "december_internships"
+msgstr "December internships"
+
+msgid "initial_application"
+msgstr "Initial applications due"
+
+msgid "feb"
+msgstr "Feb 26"
+
+msgid "sept"
+msgstr "Sept 24"
+
+msgid "contribution_final"
+msgstr "Contributions & Final applications due"
+
+msgid "apr"
+msgstr "Apr 9"
+
+msgid "nov"
+msgstr "Nov 5"
+
+msgid "internships"
+msgstr "internships"
+
+msgid "may_aug"
+msgstr "May 20 - Aug 20"
+
+msgid "dec_mar"
+msgstr "Dec 3 - Mar 3"
+
+msgid "application_tips"
+msgstr "Outreachy Application Tips"
+
+msgid "tips_list"
+msgstr "<li>Spend time on your initial application essays</li><li>Contact mentors & ask lots of questions!</li><li>Only apply to 1 or 2 projects</li><li>Contributing takes at least 1 week - start early!</li><li>Make multiple contributions</li>"
+
+msgid "here_is_a_link"
+msgstr "Here is a link to know more about open source, gsoc and outreachy"
+
+msgid "outreachy_open_projects"
+msgstr "Outreachy Open Projects"
+
+msgid "mentors_for_these"
+msgstr "<p>Mentors for these projects are willing to work with new Outreachy applicants. Please note that as the round goes on, mentors may close their project to new applicants because they are already working with many applicants. Make sure to start your required contribution as soon as possible!</p><p>Each project mentor is looking for applicants who have different skills. Sometimes a skill is a hard requirement for an applicant to have. Other times, a mentor might prefer an applicant to have a skill, but they would accept an applicant as an intern who didn't have that skill. Some skills are \"nice to have\" meaning it would be great if applicants have this skill, but the mentor doesn't have a strong preference.</p>"
+
+
+msgid "project_application"
+msgstr "Project Application"
+
+msgid "your_final_application"
+msgstr "<p>Your final application will ask you to fill out a timeline for the internship project. If you have trouble with this, or a mentor tells you they don't want you to fill out the timeline, you should simply note any full-time commitments you'll have during the internship period that will impact your work.<br>When filling out the timeline, applicants should look at the internship tasks listed on the project page, and take into account their full-time commitments to determine what they'll be working on during what part of the internship period. </p><p>Most projects will require a few weeks of ramp-up, research, and integrating into the community. Try to break down each big internship task into several smaller tasks, until you have an idea of what you'll be working for each week of the 13-week internship. All projects will have some tasks where the details will be vague until the time you start the task. It is fine to provide higher-level descriptions of what you'll be working on.</p>"
+
+msgid "our_team"
+msgstr "Our team members"
+
+msgid "would_you_like"
+msgstr "Would you like to contact us?"
+
+msgid "simply_fill"
+msgstr "Simply fill out the form below and click Submit."
+
+msgid "name_required"
+msgstr "Name (required)"
+
+msgid "email_required"
+msgstr "Email (required)"
+
+msgid "subject"
+msgstr "Subject"
+
+msgid "message"
+msgstr "Message"
+
+msgid "processing"
+msgstr "Processing..."
+
+msgid "submit"
+msgstr "Submit"
+
+msgid "center_region"
+msgstr "Center Region"
+
+msgid "footer_aim"
+msgstr "The aim of MboaLab is to catalyse sustainable local development and improve people’s living conditions through open science with this project being: <br>Improve diagnostics of typhoid through Open Science: An Artificial Intelligence-based technique."
+
+msgid "get_in_touch"
+msgstr "Get In Touch"
+
+msgid "phone"
+msgstr "Phone"
+
+msgid "email"
+msgstr "Email"
+
+msgid "copyright"
+msgstr "Copyright © MboaLab Project 2021"
+
+msgid "what_is_mboalab"
+msgstr "<p>MboaLab is an open and collaborative space located in Yaoundé, Cameroon. The aim of MboaLab is to catalyse sustainable local development and improve people’s living conditions through open science.</p> <p> MboaLab is an open and collaborative space located in the village of Mefou-Assi, Yaoundé, Cameroon. The word “Mboa” has different meanings in native Cameroonian languages: in Matakam, it means “new”; in Ewondo, it means “unique”; in Duala, it means “village”. Literally translated, MboaLab is a unifying village dedicated to creation; even better, it is a laboratory for social innovation, community education, collaboration and mediation at the service of the community. </p>"
+
