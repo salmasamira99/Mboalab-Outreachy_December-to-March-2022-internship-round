@@ -1,7 +1,10 @@
+
+<br>
 <H2>Timeline for the Internship</H2>
 
 <H2>Note:</H2>
 <B>Points 2 to 9 might might change depending on the Tasks defined With mentors in (1) and assigned to me.</B>
+<br>
 
 <B>1) A week before Internship starts:</B>
 Contact mentors, self introduction, schedule meetings and define how we will communicate with each other during the interniship. Understand better the Tasks to do and deliverables.
