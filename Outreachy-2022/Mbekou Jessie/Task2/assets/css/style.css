@@ -401,3 +401,21 @@ main#main {
 .shade-3{
     background: var(--primary-bold);
 }
+
+.contribution-card{
+    padding: 1rem;
+    border: 1px solid var(--black-xlight);
+    box-shadow: 0 0 1px 2px var(--black-xlight);
+    border-radius: 12px;
+    text-align: center;
+    height: 100%;
+}
+.language{
+    display: flex;
+    align-items: center;
+    margin-left: 1rem;
+}
+
+data-error{
+    color: red;
+}
